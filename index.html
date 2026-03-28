@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Edmonton Business Map</title>
+  <meta charset="utf-8" />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+
+<div style="position:absolute; z-index:1000; top:10px; left:10px; background:white; padding:10px; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
+
+  <button onclick="toggleNew()">Show Only New</button>
+  <button onclick="refreshData()">Refresh View</button>
+
+  <div style="margin-top:8px; font-size:12px;">
+    Last Updated: <span id="lastUpdated">Loading...</span>
+  </div>
+
+</div>
+
+
+<div id="map" style="height: 100vh;"></div>
+
+<script>
+
+var map = L.map('map').setView([53.5461, -113.4938], 11);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map);
+
+var showOnlyNew = false;
+var allMarkers = [];
+
+function toggleNew() {
+  showOnlyNew = !showOnlyNew;
+
+  document.getElementById("toggleBtn").innerText =
+    showOnlyNew ? "Show All Businesses" : "Show Only New";
+
+  renderMarkers();
+}
+
+
+function refreshData() {
+  location.reload();
+}
+let businessData = [];
+
+fetch('old_businesses.json')
+  .then(res => res.json())
+  .then(data => {
+    businessData = data;
+
+    // Set last updated time
+    const now = new Date();
+    document.getElementById("lastUpdated").innerText = now.toLocaleString();
+
+    renderMarkers();
+  });
+
+
+function renderMarkers() {
+
+  // Clear existing markers
+  allMarkers.forEach(m => map.removeLayer(m));
+  allMarkers = [];
+
+  businessData.forEach(b => {
+    if (!b.lat || !b.lon) return;
+
+    if (showOnlyNew && !b.new) return;
+
+    var color = b.new ? "red" : "blue";
+    var radius = b.new ? 10 : 3;
+
+    var marker = L.circleMarker([b.lat, b.lon], {
+      radius: radius,
+      color: color
+    }).addTo(map);
+
+    marker.bindPopup(
+      "<b>" + b.name + "</b><br>" + (b.new ? "NEW BUSINESS" : "Existing")
+    );
+
+    allMarkers.push(marker);
+  });
+}
+
+</script>
+
+
+</body>
+</html>
