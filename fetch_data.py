@@ -1,56 +1,51 @@
 import requests
-import json
 import time
+import json
 
-OVERPASS_URL = "https://overpass-api.de/api/interpreter"
+url = "https://overpass-api.de/api/interpreter"
 
 query = """
 [out:json];
+area[name="Edmonton"]->.searchArea;
 (
-  node["shop"](53.45,-113.65,53.65,-113.35);
-  node["amenity"](53.45,-113.65,53.65,-113.35);
+  node["shop"](area.searchArea);
+  node["amenity"](area.searchArea);
 );
 out;
 """
 
 print("Requesting data...")
 
-try:
-    response = requests.get(OVERPASS_URL, params={'data': query}, timeout=60)
-except Exception as e:
-    print("Request failed:", e)
-    exit()
+for attempt in range(3):  # retry up to 3 times
+    response = requests.post(url, data=query)
 
-print("Status code:", response.status_code)
+    print("Status code:", response.status_code)
 
-if response.status_code != 200:
-    print("Non-200 response:")
-    print(response.text[:500])
-    exit()
+    if response.status_code == 200:
+        data = response.json()
 
-# Sometimes API returns non-JSON even with 200
-try:
-    data = response.json()
-except Exception:
-    print("Failed to parse JSON. Raw response:")
-    print(response.text[:500])
-    exit()
+        businesses = []
+        for element in data["elements"]:
+            name = element.get("tags", {}).get("name", "Unknown")
+            lat = element.get("lat")
+            lon = element.get("lon")
 
-businesses = []
+            businesses.append({
+                "name": name,
+                "lat": lat,
+                "lon": lon
+            })
 
-for element in data.get('elements', []):
-    name = element['tags'].get('name', 'Unknown')
-    lat = element.get('lat')
-    lon = element.get('lon')
+        with open("businesses.json", "w") as f:
+            json.dump(businesses, f)
 
-    if lat and lon:
-        businesses.append({
-            "name": name,
-            "lat": lat,
-            "lon": lon
-        })
+        print(f"Saved {len(businesses)} businesses.")
+        break
 
-with open("businesses.json", "w") as f:
-    json.dump(businesses, f, indent=2)
+    else:
+        print("Retrying in 5 seconds...")
+        time.sleep(5)
+else:
+    print("Failed after 3 attempts.")
+    exit(1)
 
-print(f"Saved {len(businesses)} businesses.")
