@@ -1,3 +1,9 @@
+import os
+
+if not os.path.exists("businesses.json"):
+    print("No new data found. Skipping comparison.")
+    exit()
+
 import json
 import os
 
