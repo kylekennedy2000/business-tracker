@@ -25,18 +25,18 @@ for attempt in range(3):  # retry up to 3 times
         data = response.json()
 
         businesses = []
+
         for element in data["elements"]:
             name = element.get("tags", {}).get("name", "Unknown")
             lat = element.get("lat")
             lon = element.get("lon")
 
-           businesses.append({
-    "id": element.get("id"),
-    "name": name,
-    "lat": lat,
-    "lon": lon
-})
-
+            businesses.append({
+                "id": element.get("id"),
+                "name": name,
+                "lat": lat,
+                "lon": lon
+            })
 
         with open("businesses.json", "w") as f:
             json.dump(businesses, f)
@@ -47,7 +47,7 @@ for attempt in range(3):  # retry up to 3 times
     else:
         print("Retrying in 5 seconds...")
         time.sleep(5)
+
 else:
     print("Failed after 3 attempts.")
     exit(1)
-
