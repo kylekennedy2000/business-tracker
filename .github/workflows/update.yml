@@ -1,0 +1,35 @@
+name: Update Business Data
+
+on:
+  schedule:
+    - cron: '0 12 1 * *'  # Runs monthly (1st of month)
+  workflow_dispatch:      # Allows manual run
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run scripts
+        run: |
+          python fetch_data.py
+          python compare.py
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "auto-bot"
+          git config --global user.email "auto@github.com"
+          git add .
+          git commit -m "Auto update business data" || echo "No changes"
+          git push
