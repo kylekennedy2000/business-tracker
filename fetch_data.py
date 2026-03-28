@@ -30,11 +30,13 @@ for attempt in range(3):  # retry up to 3 times
             lat = element.get("lat")
             lon = element.get("lon")
 
-            businesses.append({
-                "name": name,
-                "lat": lat,
-                "lon": lon
-            })
+           businesses.append({
+    "id": element.get("id"),
+    "name": name,
+    "lat": lat,
+    "lon": lon
+})
+
 
         with open("businesses.json", "w") as f:
             json.dump(businesses, f)
