@@ -1,32 +1,30 @@
+import json
 import os
 
 if not os.path.exists("businesses.json"):
     print("No new data found. Skipping comparison.")
     exit()
 
-import json
-import os
-
-# First run: create baseline
-if not os.path.exists("old_businesses.json"):
-    print("No old data found. Creating baseline...")
-    os.rename("businesses.json", "old_businesses.json")
-    exit()
-
 # Load new data
 with open("businesses.json") as f:
     new_data = json.load(f)
 
-# Load old data
-with open("old_businesses.json") as f:
-    old_data = json.load(f)
+# Load old data (if exists)
+if os.path.exists("old_businesses.json"):
+    with open("old_businesses.json") as f:
+        old_data = json.load(f)
+else:
+    print("No old data found. Creating baseline...")
+    os.rename("businesses.json", "old_businesses.json")
+    exit()
 
-# Compare
-old_names = set(b["name"] for b in old_data)
+# Create sets of IDs
+old_ids = set(b["id"] for b in old_data if "id" in b)
+
 new_businesses = []
 
 for b in new_data:
-    if b["name"] not in old_names:
+    if b.get("id") not in old_ids:
         b["new"] = True
         new_businesses.append(b)
     else:
@@ -34,10 +32,7 @@ for b in new_data:
 
 print(f"New businesses found: {len(new_businesses)}")
 
-# Save updated data
-with open("businesses.json", "w") as f:
-    json.dump(new_data, f, indent=2)
+# Save updated dataset
+with open("old_businesses.json", "w") as f:
+    json.dump(new_data, f)
 
-# Replace old snapshot
-os.remove("old_businesses.json")
-os.rename("businesses.json", "old_businesses.json")
