@@ -35,4 +35,3 @@ print(f"New businesses found: {len(new_businesses)}")
 # Save updated dataset
 with open("old_businesses.json", "w") as f:
     json.dump(new_data, f)
-
