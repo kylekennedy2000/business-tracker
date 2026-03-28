@@ -373,9 +373,33 @@
   },
   {
     "name": "Tim Hortons",
+    "lat": 53.4461725,
+    "lon": -113.4915014,
+    "new": false
+  },
+  {
+    "name": "Wendy's",
+    "lat": 53.4461739,
+    "lon": -113.4913029,
+    "new": false
+  },
+  {
+    "name": "Tim Hortons",
     "lat": 53.5872344,
     "lon": -113.4676947,
     "new": false
+  },
+  {
+    "name": "Beech Grove Church",
+    "lat": 36.9925563,
+    "lon": -85.6066349,
+    "new": true
+  },
+  {
+    "name": "Metcalfe County School",
+    "lat": 36.981008,
+    "lon": -85.6252588,
+    "new": true
   },
   {
     "name": "7-Eleven",
@@ -420,9 +444,87 @@
     "new": false
   },
   {
+    "name": "Indigo",
+    "lat": 53.447183,
+    "lon": -113.484452,
+    "new": false
+  },
+  {
+    "name": "Chuck E. Cheese",
+    "lat": 53.4471683,
+    "lon": -113.484039,
+    "new": true
+  },
+  {
+    "name": "Mikado",
+    "lat": 53.4481651,
+    "lon": -113.4833017,
+    "new": false
+  },
+  {
+    "name": "Bell",
+    "lat": 53.4486384,
+    "lon": -113.4834366,
+    "new": false
+  },
+  {
+    "name": "Quiznos",
+    "lat": 53.448732,
+    "lon": -113.4835153,
+    "new": false
+  },
+  {
+    "name": "Rafters Home Store",
+    "lat": 53.4490107,
+    "lon": -113.4836974,
+    "new": true
+  },
+  {
+    "name": "Dollarama",
+    "lat": 53.4492767,
+    "lon": -113.4837437,
+    "new": false
+  },
+  {
     "name": "Subway",
     "lat": 53.4506442,
     "lon": -113.4836708,
+    "new": false
+  },
+  {
+    "name": "Golf Town",
+    "lat": 53.4486243,
+    "lon": -113.48904,
+    "new": true
+  },
+  {
+    "name": "claire's",
+    "lat": 53.4488719,
+    "lon": -113.486934,
+    "new": false
+  },
+  {
+    "name": "The Brick",
+    "lat": 53.4476212,
+    "lon": -113.4882682,
+    "new": false
+  },
+  {
+    "name": "IKEA Restaurant",
+    "lat": 53.4431324,
+    "lon": -113.48956,
+    "new": true
+  },
+  {
+    "name": "Ashley HomeStore",
+    "lat": 53.4441608,
+    "lon": -113.4862859,
+    "new": false
+  },
+  {
+    "name": "Mark's",
+    "lat": 53.4425609,
+    "lon": -113.485316,
     "new": false
   },
   {
@@ -430,6 +532,12 @@
     "lat": 53.4687561,
     "lon": -113.584538,
     "new": false
+  },
+  {
+    "name": "La-Z-Boy",
+    "lat": 53.4494718,
+    "lon": -113.4874415,
+    "new": true
   },
   {
     "name": "Poxy's",
@@ -696,6 +804,36 @@
     "new": false
   },
   {
+    "name": "Pizza 73",
+    "lat": 53.4885786,
+    "lon": -113.6650372,
+    "new": false
+  },
+  {
+    "name": "Careit Urban Deli",
+    "lat": 53.4885795,
+    "lon": -113.6651381,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4882582,
+    "lon": -113.6649427,
+    "new": false
+  },
+  {
+    "name": "Circle K",
+    "lat": 53.4883443,
+    "lon": -113.6654436,
+    "new": false
+  },
+  {
+    "name": "Westside Animal Clinic",
+    "lat": 53.4885803,
+    "lon": -113.665247,
+    "new": true
+  },
+  {
     "name": "The Carrot",
     "lat": 53.5702682,
     "lon": -113.4854433,
@@ -720,6 +858,12 @@
     "new": false
   },
   {
+    "name": "Save-On-Foods",
+    "lat": 53.4256634,
+    "lon": -113.519445,
+    "new": false
+  },
+  {
     "name": "Boston Pizza",
     "lat": 53.4534875,
     "lon": -113.5146243,
@@ -729,6 +873,12 @@
     "name": "Medicine Village",
     "lat": 53.452313,
     "lon": -113.5139068,
+    "new": false
+  },
+  {
+    "name": "Tim Hortons",
+    "lat": 53.4396787,
+    "lon": -113.519193,
     "new": false
   },
   {
@@ -777,6 +927,18 @@
     "name": "Blue Truck Barbecue",
     "lat": 53.5599302,
     "lon": -113.6047858,
+    "new": false
+  },
+  {
+    "name": "Millhurst Pizza",
+    "lat": 53.4452224,
+    "lon": -113.4310216,
+    "new": true
+  },
+  {
+    "name": "Husky",
+    "lat": 53.4453294,
+    "lon": -113.430402,
     "new": false
   },
   {
@@ -927,6 +1089,12 @@
     "name": "Syphay Restaurant",
     "lat": 53.4973269,
     "lon": -113.4979394,
+    "new": false
+  },
+  {
+    "name": "Starbucks",
+    "lat": 53.4451511,
+    "lon": -113.490952,
     "new": false
   },
   {
@@ -1896,6 +2064,12 @@
     "new": false
   },
   {
+    "name": "Scotiabank",
+    "lat": 53.5607325,
+    "lon": -113.5534263,
+    "new": false
+  },
+  {
     "name": "Cheerio Liquor Store",
     "lat": 53.5593531,
     "lon": -113.4952099,
@@ -2664,6 +2838,12 @@
     "new": false
   },
   {
+    "name": "Shoppers Drug Mart",
+    "lat": 53.426275,
+    "lon": -113.517449,
+    "new": false
+  },
+  {
     "name": "Far East Coffee & Sandwiches",
     "lat": 53.54476,
     "lon": -113.5079637,
@@ -2722,6 +2902,12 @@
     "lat": 53.6484337,
     "lon": -113.3755647,
     "new": false
+  },
+  {
+    "name": "Heimtal Moravian Church",
+    "lat": 53.3844228,
+    "lon": -113.5401568,
+    "new": true
   },
   {
     "name": "Hemptations",
@@ -2910,12 +3096,6 @@
     "new": false
   },
   {
-    "name": "Hole's Greenhouses",
-    "lat": 53.6124055,
-    "lon": -113.6490366,
-    "new": false
-  },
-  {
     "name": "Unknown",
     "lat": 53.559168,
     "lon": -113.567662,
@@ -2925,12 +3105,6 @@
     "name": "Unknown",
     "lat": 53.5587646,
     "lon": -113.5839771,
-    "new": false
-  },
-  {
-    "name": "Prairie Bistro",
-    "lat": 53.6118144,
-    "lon": -113.6487082,
     "new": false
   },
   {
@@ -3438,6 +3612,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4495911,
+    "lon": -113.5717779,
+    "new": false
+  },
+  {
     "name": "Mill Creek Animal Hospital",
     "lat": 53.5219994,
     "lon": -113.486386,
@@ -3588,6 +3768,24 @@
     "new": false
   },
   {
+    "name": "Shoppers Drug Mart",
+    "lat": 53.4244468,
+    "lon": -113.4762898,
+    "new": false
+  },
+  {
+    "name": "Subway",
+    "lat": 53.4263124,
+    "lon": -113.519154,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4189041,
+    "lon": -113.4745728,
+    "new": false
+  },
+  {
     "name": "Chester's Chicken To Go",
     "lat": 53.5512801,
     "lon": -113.5032108,
@@ -3708,9 +3906,21 @@
     "new": false
   },
   {
+    "name": "Pringle Computer Services",
+    "lat": 36.9797123,
+    "lon": -85.612579,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.5182691,
     "lon": -113.5892315,
+    "new": false
+  },
+  {
+    "name": "Shoppers Drug Mart",
+    "lat": 53.4352757,
+    "lon": -113.571161,
     "new": false
   },
   {
@@ -3753,18 +3963,6 @@
     "name": "Unknown",
     "lat": 53.5252889,
     "lon": -113.5280554,
-    "new": false
-  },
-  {
-    "name": "Arden Theatre",
-    "lat": 53.6329206,
-    "lon": -113.627599,
-    "new": false
-  },
-  {
-    "name": "Starbucks",
-    "lat": 53.6218296,
-    "lon": -113.6112231,
     "new": false
   },
   {
@@ -3855,12 +4053,6 @@
     "name": "Desi-Licious",
     "lat": 53.5394363,
     "lon": -113.4994759,
-    "new": false
-  },
-  {
-    "name": "Amaranth Whole Foods",
-    "lat": 53.611817,
-    "lon": -113.6480312,
     "new": false
   },
   {
@@ -4008,6 +4200,12 @@
     "new": false
   },
   {
+    "name": "Tien Tuyen",
+    "lat": 53.4290943,
+    "lon": -113.4734629,
+    "new": true
+  },
+  {
     "name": "Mary Brown's",
     "lat": 53.6000313,
     "lon": -113.484679,
@@ -4080,9 +4278,21 @@
     "new": false
   },
   {
+    "name": "Co-op Wine & Spirits",
+    "lat": 53.4351807,
+    "lon": -113.5715431,
+    "new": true
+  },
+  {
     "name": "Shell",
     "lat": 53.4545125,
     "lon": -113.5627862,
+    "new": false
+  },
+  {
+    "name": "Fatburger",
+    "lat": 53.4452381,
+    "lon": -113.4907903,
     "new": false
   },
   {
@@ -4254,6 +4464,24 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4263075,
+    "lon": -113.5185334,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4263062,
+    "lon": -113.5183687,
+    "new": false
+  },
+  {
+    "name": "Mac's",
+    "lat": 53.425351,
+    "lon": -113.5294104,
+    "new": false
+  },
+  {
     "name": "Crestwood Fine Wines",
     "lat": 53.5342282,
     "lon": -113.5667914,
@@ -4330,6 +4558,12 @@
     "lat": 53.4682145,
     "lon": -113.5836453,
     "new": false
+  },
+  {
+    "name": "Chan Can Wok",
+    "lat": 53.4263104,
+    "lon": -113.5186903,
+    "new": true
   },
   {
     "name": "Stollery Children's Hospital",
@@ -4656,6 +4890,12 @@
     "new": false
   },
   {
+    "name": "Tim Hortons",
+    "lat": 53.4241629,
+    "lon": -113.517438,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.5164656,
     "lon": -113.5215872,
@@ -4744,6 +4984,12 @@
     "lat": 53.5187564,
     "lon": -113.4576984,
     "new": false
+  },
+  {
+    "name": "Ellerslie Registries",
+    "lat": 53.4235062,
+    "lon": -113.5142345,
+    "new": true
   },
   {
     "name": "Syphay House",
@@ -4884,6 +5130,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4243186,
+    "lon": -113.51909,
+    "new": false
+  },
+  {
     "name": "EB Games",
     "lat": 53.5407438,
     "lon": -113.641559,
@@ -4944,9 +5196,15 @@
     "new": false
   },
   {
-    "name": "Subway",
-    "lat": 53.6220398,
-    "lon": -113.6065671,
+    "name": "Unknown",
+    "lat": 53.4929703,
+    "lon": -113.6649246,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5107239,
+    "lon": -113.675345,
     "new": false
   },
   {
@@ -5004,6 +5262,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.5245511,
+    "lon": -113.6778628,
+    "new": false
+  },
+  {
     "name": "Dairy Queen",
     "lat": 53.631839,
     "lon": -113.5406045,
@@ -5013,6 +5277,18 @@
     "name": "Sobeys",
     "lat": 53.6311182,
     "lon": -113.539115,
+    "new": false
+  },
+  {
+    "name": "Taco Bell",
+    "lat": 53.4254141,
+    "lon": -113.4766874,
+    "new": false
+  },
+  {
+    "name": "KFC",
+    "lat": 53.4254118,
+    "lon": -113.4765818,
     "new": false
   },
   {
@@ -5031,144 +5307,6 @@
     "name": "Rexall",
     "lat": 53.5985231,
     "lon": -113.3870924,
-    "new": false
-  },
-  {
-    "name": "Diamond car wash",
-    "lat": 53.6304245,
-    "lon": -113.5935843,
-    "new": false
-  },
-  {
-    "name": "Scotiabank",
-    "lat": 53.6227693,
-    "lon": -113.605641,
-    "new": false
-  },
-  {
-    "name": "Mr. Sub",
-    "lat": 53.6217523,
-    "lon": -113.6110586,
-    "new": false
-  },
-  {
-    "name": "The Hot Grill",
-    "lat": 53.620416,
-    "lon": -113.6094413,
-    "new": false
-  },
-  {
-    "name": "Esso",
-    "lat": 53.6416173,
-    "lon": -113.5764086,
-    "new": false
-  },
-  {
-    "name": "7-Eleven",
-    "lat": 53.6303672,
-    "lon": -113.5925114,
-    "new": false
-  },
-  {
-    "name": "Lb's Pub",
-    "lat": 53.6305708,
-    "lon": -113.5925973,
-    "new": false
-  },
-  {
-    "name": "Tim Hortons",
-    "lat": 53.6421125,
-    "lon": -113.576351,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6199994,
-    "lon": -113.609258,
-    "new": false
-  },
-  {
-    "name": "Avis",
-    "lat": 53.6202667,
-    "lon": -113.6091481,
-    "new": false
-  },
-  {
-    "name": "Dr Hrynkiw",
-    "lat": 53.6225582,
-    "lon": -113.6059424,
-    "new": false
-  },
-  {
-    "name": "BMO",
-    "lat": 53.6219433,
-    "lon": -113.6065911,
-    "new": false
-  },
-  {
-    "name": "Starbucks",
-    "lat": 53.6232716,
-    "lon": -113.6050019,
-    "new": false
-  },
-  {
-    "name": "Global Pet Foods",
-    "lat": 53.6223935,
-    "lon": -113.609604,
-    "new": false
-  },
-  {
-    "name": "The Bourbon Room.",
-    "lat": 53.6366098,
-    "lon": -113.5750717,
-    "new": false
-  },
-  {
-    "name": "Big Toy Wash",
-    "lat": 53.6376722,
-    "lon": -113.5743152,
-    "new": false
-  },
-  {
-    "name": "Campbell Liquor",
-    "lat": 53.6352957,
-    "lon": -113.5753243,
-    "new": false
-  },
-  {
-    "name": "Lo-Se-Ca Foundation",
-    "lat": 53.6372604,
-    "lon": -113.575092,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6367553,
-    "lon": -113.5750702,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6372809,
-    "lon": -113.5765005,
-    "new": false
-  },
-  {
-    "name": "Red Brick Wall",
-    "lat": 53.6229766,
-    "lon": -113.608983,
-    "new": false
-  },
-  {
-    "name": "Red Willow Veterinary Hospital",
-    "lat": 53.6228652,
-    "lon": -113.6090961,
-    "new": false
-  },
-  {
-    "name": "Barber Shop Boyz",
-    "lat": 53.6227236,
-    "lon": -113.6092973,
     "new": false
   },
   {
@@ -5236,6 +5374,12 @@
     "lat": 53.5223206,
     "lon": -113.623963,
     "new": false
+  },
+  {
+    "name": "Donna\u2019s Eatery & Catering",
+    "lat": 53.5663443,
+    "lon": -113.6898164,
+    "new": true
   },
   {
     "name": "JYSK",
@@ -5325,6 +5469,24 @@
     "name": "Mr. Safety Shoes",
     "lat": 53.5418414,
     "lon": -113.6458235,
+    "new": false
+  },
+  {
+    "name": "Canada Post Corporation",
+    "lat": 53.4245238,
+    "lon": -113.4763116,
+    "new": true
+  },
+  {
+    "name": "Mucho Burrito",
+    "lat": 53.4235351,
+    "lon": -113.4749266,
+    "new": false
+  },
+  {
+    "name": "Liquor Depot",
+    "lat": 53.423385,
+    "lon": -113.4750178,
     "new": false
   },
   {
@@ -5454,6 +5616,12 @@
     "new": false
   },
   {
+    "name": "Quiznos",
+    "lat": 53.4255197,
+    "lon": -113.4766369,
+    "new": false
+  },
+  {
     "name": "Craft Beer Market",
     "lat": 53.5421014,
     "lon": -113.4912939,
@@ -5562,6 +5730,12 @@
     "new": false
   },
   {
+    "name": "Tim Hortons",
+    "lat": 53.4217479,
+    "lon": -113.419865,
+    "new": false
+  },
+  {
     "name": "Structube",
     "lat": 53.5411275,
     "lon": -113.5137016,
@@ -5607,6 +5781,30 @@
     "name": "The Pampered Puppy",
     "lat": 53.5447943,
     "lon": -113.5355246,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4875953,
+    "lon": -113.6711352,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4875426,
+    "lon": -113.6720538,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4873315,
+    "lon": -113.6723833,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5826777,
+    "lon": -113.6634976,
     "new": false
   },
   {
@@ -5857,8 +6055,38 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4400876,
+    "lon": -113.6436232,
+    "new": false
+  },
+  {
+    "name": "Subway",
+    "lat": 53.5238302,
+    "lon": -113.6658545,
+    "new": false
+  },
+  {
+    "name": "Dairy Queen",
+    "lat": 53.5241213,
+    "lon": -113.6658106,
+    "new": false
+  },
+  {
+    "name": "eplGO - West Henday Promenade",
+    "lat": 53.5239202,
+    "lon": -113.6658424,
+    "new": true
+  },
+  {
+    "name": "Unknown",
     "lat": 53.54161,
     "lon": -113.4729004,
+    "new": false
+  },
+  {
+    "name": "Babies R Us",
+    "lat": 53.4496254,
+    "lon": -113.4818603,
     "new": false
   },
   {
@@ -6517,6 +6745,12 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.5059913,
+    "lon": -113.6814549,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5239198,
     "lon": -113.5090932,
     "new": false
@@ -6882,6 +7116,12 @@
     "new": false
   },
   {
+    "name": "Home Depot Garden Centre",
+    "lat": 53.4495474,
+    "lon": -113.4898377,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.4554774,
     "lon": -113.4412173,
@@ -6999,24 +7239,6 @@
     "name": "Unknown",
     "lat": 53.5208519,
     "lon": -113.4590611,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6443643,
-    "lon": -113.6253266,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6459384,
-    "lon": -113.6233901,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6467652,
-    "lon": -113.6259757,
     "new": false
   },
   {
@@ -7338,6 +7560,12 @@
     "new": false
   },
   {
+    "name": "Ellerslie Medical centre",
+    "lat": 53.4263045,
+    "lon": -113.518203,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.4701608,
     "lon": -113.3850675,
@@ -7530,6 +7758,108 @@
     "new": false
   },
   {
+    "name": "H&M",
+    "lat": 53.4431181,
+    "lon": -113.4823482,
+    "new": false
+  },
+  {
+    "name": "Gap Outlet",
+    "lat": 53.443244,
+    "lon": -113.482108,
+    "new": true
+  },
+  {
+    "name": "Roots",
+    "lat": 53.4435055,
+    "lon": -113.481807,
+    "new": false
+  },
+  {
+    "name": "OshKosh B'gosh",
+    "lat": 53.4437477,
+    "lon": -113.4815473,
+    "new": true
+  },
+  {
+    "name": "Carter's",
+    "lat": 53.4438978,
+    "lon": -113.4814693,
+    "new": false
+  },
+  {
+    "name": "J.Crew Factory",
+    "lat": 53.4440358,
+    "lon": -113.481388,
+    "new": true
+  },
+  {
+    "name": "Reebok Outlet Store",
+    "lat": 53.4441666,
+    "lon": -113.481306,
+    "new": true
+  },
+  {
+    "name": "Optiks International",
+    "lat": 53.4428882,
+    "lon": -113.4854116,
+    "new": true
+  },
+  {
+    "name": "Premium Label Edmonton",
+    "lat": 53.4432272,
+    "lon": -113.4857571,
+    "new": true
+  },
+  {
+    "name": "Pro Hockey Life South Edmonton",
+    "lat": 53.4434293,
+    "lon": -113.4858907,
+    "new": true
+  },
+  {
+    "name": "Laura",
+    "lat": 53.4445048,
+    "lon": -113.4863741,
+    "new": false
+  },
+  {
+    "name": "Dollar Tree",
+    "lat": 53.4481889,
+    "lon": -113.48588,
+    "new": false
+  },
+  {
+    "name": "Stokes",
+    "lat": 53.4481402,
+    "lon": -113.4861757,
+    "new": false
+  },
+  {
+    "name": "Bombay & Company",
+    "lat": 53.4481131,
+    "lon": -113.4863666,
+    "new": true
+  },
+  {
+    "name": "Urban Barn",
+    "lat": 53.448013,
+    "lon": -113.4866893,
+    "new": false
+  },
+  {
+    "name": "Old Navy",
+    "lat": 53.4490743,
+    "lon": -113.487129,
+    "new": false
+  },
+  {
+    "name": "Michaels",
+    "lat": 53.448184,
+    "lon": -113.4886681,
+    "new": false
+  },
+  {
     "name": "Premier Furniture And Mattresses",
     "lat": 53.4500034,
     "lon": -113.4878858,
@@ -7596,6 +7926,12 @@
     "new": false
   },
   {
+    "name": "Mattress Superstore",
+    "lat": 53.4499808,
+    "lon": -113.4849557,
+    "new": true
+  },
+  {
     "name": "Lindt",
     "lat": 53.4500918,
     "lon": -113.484978,
@@ -7644,6 +7980,126 @@
     "new": false
   },
   {
+    "name": "Banana Republic",
+    "lat": 53.4442054,
+    "lon": -113.4843841,
+    "new": true
+  },
+  {
+    "name": "Bootlegger",
+    "lat": 53.4440552,
+    "lon": -113.4842487,
+    "new": false
+  },
+  {
+    "name": "Famoso Neapolitan Pizzeria",
+    "lat": 53.443841,
+    "lon": -113.4840805,
+    "new": true
+  },
+  {
+    "name": "Caff\u00e8 Sorrentino South Common",
+    "lat": 53.4435879,
+    "lon": -113.4837957,
+    "new": true
+  },
+  {
+    "name": "Skechers",
+    "lat": 53.4435017,
+    "lon": -113.483655,
+    "new": false
+  },
+  {
+    "name": "Adidas Outlet - South Common",
+    "lat": 53.4434238,
+    "lon": -113.483478,
+    "new": true
+  },
+  {
+    "name": "Bath & Body Works",
+    "lat": 53.4432235,
+    "lon": -113.4830905,
+    "new": false
+  },
+  {
+    "name": "Starbucks",
+    "lat": 53.4471882,
+    "lon": -113.4842445,
+    "new": false
+  },
+  {
+    "name": "GUESS Factory",
+    "lat": 53.4476933,
+    "lon": -113.483235,
+    "new": true
+  },
+  {
+    "name": "Nike Factory Store",
+    "lat": 53.4466899,
+    "lon": -113.48239,
+    "new": true
+  },
+  {
+    "name": "Chatters Hair Salon",
+    "lat": 53.44684,
+    "lon": -113.4816018,
+    "new": true
+  },
+  {
+    "name": "La Vie en Rose Outlet",
+    "lat": 53.4470192,
+    "lon": -113.481244,
+    "new": false
+  },
+  {
+    "name": "Melanie Lyne",
+    "lat": 53.4471982,
+    "lon": -113.4811849,
+    "new": true
+  },
+  {
+    "name": "Justice",
+    "lat": 53.4474899,
+    "lon": -113.481173,
+    "new": true
+  },
+  {
+    "name": "Puma",
+    "lat": 53.4475677,
+    "lon": -113.4811704,
+    "new": true
+  },
+  {
+    "name": "Mattress Mattress",
+    "lat": 53.4483048,
+    "lon": -113.4833023,
+    "new": false
+  },
+  {
+    "name": "Marble Slab Creamery",
+    "lat": 53.4484452,
+    "lon": -113.4832742,
+    "new": false
+  },
+  {
+    "name": "Century Goldsmiths",
+    "lat": 53.4485253,
+    "lon": -113.4833415,
+    "new": true
+  },
+  {
+    "name": "Pita Pit",
+    "lat": 53.4486794,
+    "lon": -113.483471,
+    "new": false
+  },
+  {
+    "name": "Vitality Health Foods",
+    "lat": 53.4485853,
+    "lon": -113.483392,
+    "new": false
+  },
+  {
     "name": "Konto Furniture",
     "lat": 53.4507453,
     "lon": -113.481591,
@@ -7674,6 +8130,42 @@
     "new": false
   },
   {
+    "name": "Triple Flip",
+    "lat": 53.4447283,
+    "lon": -113.4898884,
+    "new": true
+  },
+  {
+    "name": "Booster Juice",
+    "lat": 53.4450515,
+    "lon": -113.4892382,
+    "new": false
+  },
+  {
+    "name": "Hakim Optical",
+    "lat": 53.4447026,
+    "lon": -113.489981,
+    "new": true
+  },
+  {
+    "name": "Subway",
+    "lat": 53.4452738,
+    "lon": -113.4893848,
+    "new": false
+  },
+  {
+    "name": "Education Station",
+    "lat": 53.4448189,
+    "lon": -113.4895623,
+    "new": true
+  },
+  {
+    "name": "Extreme Pita",
+    "lat": 53.4453535,
+    "lon": -113.4894374,
+    "new": false
+  },
+  {
     "name": "Checkers Pizza and Donair",
     "lat": 53.4639834,
     "lon": -113.4573207,
@@ -7683,6 +8175,12 @@
     "name": "Borderline Pub & Grill",
     "lat": 53.4643949,
     "lon": -113.4576663,
+    "new": false
+  },
+  {
+    "name": "Nomiya",
+    "lat": 53.426307,
+    "lon": -113.5189973,
     "new": false
   },
   {
@@ -7893,6 +8391,60 @@
     "name": "Unknown",
     "lat": 53.4842041,
     "lon": -113.421429,
+    "new": false
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "lat": 53.4483945,
+    "lon": -113.4845924,
+    "new": true
+  },
+  {
+    "name": "La Senza",
+    "lat": 53.4486609,
+    "lon": -113.484755,
+    "new": false
+  },
+  {
+    "name": "Reitmans",
+    "lat": 53.4487936,
+    "lon": -113.4848094,
+    "new": false
+  },
+  {
+    "name": "Le Chateau Outlet",
+    "lat": 53.4489506,
+    "lon": -113.4849484,
+    "new": true
+  },
+  {
+    "name": "Structube",
+    "lat": 53.4407455,
+    "lon": -113.490667,
+    "new": false
+  },
+  {
+    "name": "David's Bridal",
+    "lat": 53.4410095,
+    "lon": -113.490785,
+    "new": true
+  },
+  {
+    "name": "Bouclair Home",
+    "lat": 53.4413316,
+    "lon": -113.4911271,
+    "new": true
+  },
+  {
+    "name": "Mister Safety Shoes Inc",
+    "lat": 53.4410361,
+    "lon": -113.4899278,
+    "new": true
+  },
+  {
+    "name": "Five Guys",
+    "lat": 53.4412056,
+    "lon": -113.489964,
     "new": false
   },
   {
@@ -8346,6 +8898,18 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4240157,
+    "lon": -113.4411417,
+    "new": false
+  },
+  {
+    "name": "The Orchards RA site",
+    "lat": 53.4068043,
+    "lon": -113.4680481,
+    "new": true
+  },
+  {
     "name": "Dolly's Cocktail Bar",
     "lat": 53.537442,
     "lon": -113.5087813,
@@ -8355,132 +8919,6 @@
     "name": "Vo's Nails",
     "lat": 53.5411906,
     "lon": -113.5090641,
-    "new": false
-  },
-  {
-    "name": "Merle Norman",
-    "lat": 53.6216176,
-    "lon": -113.6070474,
-    "new": false
-  },
-  {
-    "name": "Canna Cabana",
-    "lat": 53.6221315,
-    "lon": -113.606486,
-    "new": false
-  },
-  {
-    "name": "CIBC",
-    "lat": 53.623533,
-    "lon": -113.6045542,
-    "new": false
-  },
-  {
-    "name": "COBS Bread",
-    "lat": 53.622225,
-    "lon": -113.6063657,
-    "new": false
-  },
-  {
-    "name": "Ultracuts",
-    "lat": 53.6225035,
-    "lon": -113.6060279,
-    "new": false
-  },
-  {
-    "name": "M&M Food Market",
-    "lat": 53.6222705,
-    "lon": -113.606312,
-    "new": false
-  },
-  {
-    "name": "Planet Beach",
-    "lat": 53.6226432,
-    "lon": -113.6058169,
-    "new": false
-  },
-  {
-    "name": "The Panpan Express",
-    "lat": 53.6220931,
-    "lon": -113.606538,
-    "new": false
-  },
-  {
-    "name": "Fantastic Nails & Spa",
-    "lat": 53.6221898,
-    "lon": -113.6064034,
-    "new": false
-  },
-  {
-    "name": "Shell",
-    "lat": 53.6223565,
-    "lon": -113.6075002,
-    "new": false
-  },
-  {
-    "name": "Gateway Family Medical Clinic",
-    "lat": 53.6225894,
-    "lon": -113.6059061,
-    "new": false
-  },
-  {
-    "name": "Little Caesars",
-    "lat": 53.6223415,
-    "lon": -113.6062278,
-    "new": false
-  },
-  {
-    "name": "Vitality Health Foods",
-    "lat": 53.6224656,
-    "lon": -113.6060864,
-    "new": false
-  },
-  {
-    "name": "Shell",
-    "lat": 53.6222679,
-    "lon": -113.607378,
-    "new": false
-  },
-  {
-    "name": "Mar Orthodontics",
-    "lat": 53.6216162,
-    "lon": -113.6069095,
-    "new": false
-  },
-  {
-    "name": "Splash Poke",
-    "lat": 53.6227067,
-    "lon": -113.605727,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6221589,
-    "lon": -113.606447,
-    "new": false
-  },
-  {
-    "name": "Shell",
-    "lat": 53.6224303,
-    "lon": -113.6076457,
-    "new": false
-  },
-  {
-    "name": "First Class Drycleaners",
-    "lat": 53.6225291,
-    "lon": -113.6059939,
-    "new": false
-  },
-  {
-    "name": "Hana-ya",
-    "lat": 53.6223838,
-    "lon": -113.6061848,
-    "new": false
-  },
-  {
-    "name": "Booster Juice",
-    "lat": 53.6224262,
-    "lon": -113.606128,
     "new": false
   },
   {
@@ -8511,6 +8949,24 @@
     "name": "Unknown",
     "lat": 53.5394827,
     "lon": -113.5079305,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.419208,
+    "lon": -113.4485339,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4191637,
+    "lon": -113.4476425,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4193422,
+    "lon": -113.4488272,
     "new": false
   },
   {
@@ -8562,9 +9018,33 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4083972,
+    "lon": -113.5321525,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4055287,
+    "lon": -113.5343249,
+    "new": false
+  },
+  {
     "name": "Original Joe's",
     "lat": 53.6273862,
     "lon": -113.4167037,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4111972,
+    "lon": -113.5366079,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4105474,
+    "lon": -113.5354718,
     "new": false
   },
   {
@@ -8601,6 +9081,54 @@
     "name": "Subway",
     "lat": 53.5199154,
     "lon": -113.4580228,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5104919,
+    "lon": -113.6787901,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5110912,
+    "lon": -113.6789901,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5098286,
+    "lon": -113.6753824,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5101266,
+    "lon": -113.6864804,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.508811,
+    "lon": -113.6861882,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5034502,
+    "lon": -113.6651338,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4984614,
+    "lon": -113.6731321,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5019954,
+    "lon": -113.6697085,
     "new": false
   },
   {
@@ -8653,32 +9181,20 @@
   },
   {
     "name": "Unknown",
-    "lat": 53.6343676,
-    "lon": -113.629261,
-    "new": false
-  },
-  {
-    "name": "Unknown",
     "lat": 53.5190441,
     "lon": -113.527519,
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6260547,
-    "lon": -113.6294889,
-    "new": false
+    "name": "Municipal Affairs Quasi-Judicial Boards",
+    "lat": 53.4221223,
+    "lon": -113.4742978,
+    "new": true
   },
   {
     "name": "Heritage Cigars & Vapes",
     "lat": 53.4534794,
     "lon": -113.5097882,
-    "new": false
-  },
-  {
-    "name": "Cheap Smokes & Cigars",
-    "lat": 53.6451383,
-    "lon": -113.6236243,
     "new": false
   },
   {
@@ -8736,6 +9252,30 @@
     "new": false
   },
   {
+    "name": "Chiropractor",
+    "lat": 53.4219938,
+    "lon": -113.4738252,
+    "new": true
+  },
+  {
+    "name": "The Posh Paw",
+    "lat": 53.4220197,
+    "lon": -113.4739292,
+    "new": true
+  },
+  {
+    "name": "Pro Martial Arts",
+    "lat": 53.422167,
+    "lon": -113.4744613,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4223128,
+    "lon": -113.4740165,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.476532,
     "lon": -113.354905,
@@ -8752,6 +9292,12 @@
     "lat": 53.4766102,
     "lon": -113.3565444,
     "new": false
+  },
+  {
+    "name": "MEC (Mountain Equipment Co-operative)",
+    "lat": 53.4457327,
+    "lon": -113.4873436,
+    "new": true
   },
   {
     "name": "L'Unitheatre",
@@ -8817,6 +9363,24 @@
     "name": "Rexall",
     "lat": 53.4549673,
     "lon": -113.513845,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4219648,
+    "lon": -113.4736897,
+    "new": false
+  },
+  {
+    "name": "Rising Scholars Preschool Academy",
+    "lat": 53.422686,
+    "lon": -113.4739158,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4220607,
+    "lon": -113.4760299,
     "new": false
   },
   {
@@ -8994,24 +9558,6 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6434127,
-    "lon": -113.6398067,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6434934,
-    "lon": -113.6397021,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6403792,
-    "lon": -113.648154,
-    "new": false
-  },
-  {
     "name": "Tim Hortons",
     "lat": 53.6302589,
     "lon": -113.5450117,
@@ -9022,6 +9568,12 @@
     "lat": 53.6290097,
     "lon": -113.5469374,
     "new": false
+  },
+  {
+    "name": "Creekwood Convenience Store and Pizza",
+    "lat": 53.4042842,
+    "lon": -113.5660854,
+    "new": true
   },
   {
     "name": "Taps For Effect Games",
@@ -9052,6 +9604,12 @@
     "lat": 53.4530318,
     "lon": -113.5249975,
     "new": false
+  },
+  {
+    "name": "Central Baptist Southeast",
+    "lat": 53.4147387,
+    "lon": -113.4795889,
+    "new": true
   },
   {
     "name": "C-health",
@@ -9180,6 +9738,12 @@
     "new": false
   },
   {
+    "name": "Parsons Medical Centre",
+    "lat": 53.4279763,
+    "lon": -113.4790968,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.4577029,
     "lon": -113.3834413,
@@ -9306,6 +9870,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4331416,
+    "lon": -113.5983121,
+    "new": false
+  },
+  {
     "name": "Bohemia",
     "lat": 53.5444713,
     "lon": -113.4861667,
@@ -9369,6 +9939,18 @@
     "name": "Unknown",
     "lat": 53.5206251,
     "lon": -113.5250496,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4970042,
+    "lon": -113.6665724,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.497226,
+    "lon": -113.6651651,
     "new": false
   },
   {
@@ -9564,6 +10146,18 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4481671,
+    "lon": -113.4124032,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4481307,
+    "lon": -113.412282,
+    "new": false
+  },
+  {
     "name": "Amazing Indoors",
     "lat": 53.5235018,
     "lon": -113.6277442,
@@ -9585,6 +10179,12 @@
     "name": "Paddle Boat Rental",
     "lat": 53.5122091,
     "lon": -113.5532806,
+    "new": false
+  },
+  {
+    "name": "Freshii",
+    "lat": 53.4260198,
+    "lon": -113.4763521,
     "new": false
   },
   {
@@ -9684,6 +10284,36 @@
     "new": false
   },
   {
+    "name": "Jagare Ridge Dental",
+    "lat": 53.4111857,
+    "lon": -113.5660155,
+    "new": true
+  },
+  {
+    "name": "Dairy Queen",
+    "lat": 53.4109457,
+    "lon": -113.5659759,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.494381,
+    "lon": -113.674759,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4893166,
+    "lon": -113.6798898,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4945411,
+    "lon": -113.6758115,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.5280667,
     "lon": -113.5533859,
@@ -9723,6 +10353,60 @@
     "name": "Two Mothers",
     "lat": 53.5120803,
     "lon": -113.4761756,
+    "new": false
+  },
+  {
+    "name": "Blowers & Grafton",
+    "lat": 53.436491,
+    "lon": -113.606622,
+    "new": false
+  },
+  {
+    "name": "Tommy Gun's Original Barbershop",
+    "lat": 53.4364335,
+    "lon": -113.6064317,
+    "new": false
+  },
+  {
+    "name": "Cora",
+    "lat": 53.436384,
+    "lon": -113.6062547,
+    "new": false
+  },
+  {
+    "name": "Starbucks",
+    "lat": 53.4352151,
+    "lon": -113.6060826,
+    "new": false
+  },
+  {
+    "name": "Opa! of Greece",
+    "lat": 53.435232,
+    "lon": -113.6061676,
+    "new": true
+  },
+  {
+    "name": "Marble Slab Creamery",
+    "lat": 53.4352474,
+    "lon": -113.6062443,
+    "new": false
+  },
+  {
+    "name": "Edo Japan",
+    "lat": 53.4352867,
+    "lon": -113.6064507,
+    "new": false
+  },
+  {
+    "name": "Quiznos",
+    "lat": 53.4352688,
+    "lon": -113.606348,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.417568,
+    "lon": -113.4690619,
     "new": false
   },
   {
@@ -9766,6 +10450,18 @@
     "lat": 53.5116273,
     "lon": -113.4421115,
     "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4450981,
+    "lon": -113.4892689,
+    "new": false
+  },
+  {
+    "name": "Sleepy Country",
+    "lat": 53.4448773,
+    "lon": -113.4893521,
+    "new": true
   },
   {
     "name": "B-Bim-Baap Restaurant & Lounge",
@@ -9813,12 +10509,6 @@
     "name": "Cannabis House",
     "lat": 53.6326148,
     "lon": -113.442224,
-    "new": false
-  },
-  {
-    "name": "Fire & Flower Cannabis Inc.",
-    "lat": 53.6461543,
-    "lon": -113.6239246,
     "new": false
   },
   {
@@ -10302,16 +10992,28 @@
     "new": false
   },
   {
+    "name": "Costco Pharmacy",
+    "lat": 53.509976,
+    "lon": -113.6849611,
+    "new": false
+  },
+  {
+    "name": "The Canadian Brewhouse",
+    "lat": 53.5282451,
+    "lon": -113.687766,
+    "new": false
+  },
+  {
     "name": "Meadows Recreation Centre Recycling Depot",
     "lat": 53.456952,
     "lon": -113.3720692,
     "new": false
   },
   {
-    "name": "RBC Royal Bank",
-    "lat": 53.6448465,
-    "lon": -113.6239177,
-    "new": false
+    "name": "Costco Optical Centre",
+    "lat": 53.509443,
+    "lon": -113.6856365,
+    "new": true
   },
   {
     "name": "Coast Appliances",
@@ -10579,6 +11281,12 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4210376,
+    "lon": -113.4770284,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5122721,
     "lon": -113.5546297,
     "new": false
@@ -10761,6 +11469,42 @@
     "name": "Edmonton Book Store",
     "lat": 53.5179237,
     "lon": -113.5017698,
+    "new": false
+  },
+  {
+    "name": "Subway",
+    "lat": 53.4114069,
+    "lon": -113.5659824,
+    "new": false
+  },
+  {
+    "name": "Subway",
+    "lat": 53.4069034,
+    "lon": -113.5365442,
+    "new": false
+  },
+  {
+    "name": "Edo Japan",
+    "lat": 53.4069482,
+    "lon": -113.5366269,
+    "new": false
+  },
+  {
+    "name": "BarBurrito",
+    "lat": 53.4070529,
+    "lon": -113.5368178,
+    "new": false
+  },
+  {
+    "name": "Domino's",
+    "lat": 53.4069967,
+    "lon": -113.5367198,
+    "new": false
+  },
+  {
+    "name": "Edmonton Public Library",
+    "lat": 53.4075279,
+    "lon": -113.5376224,
     "new": false
   },
   {
@@ -10986,6 +11730,24 @@
     "new": false
   },
   {
+    "name": "Odd Burger",
+    "lat": 53.4260143,
+    "lon": -113.478038,
+    "new": false
+  },
+  {
+    "name": "Telus",
+    "lat": 53.4260287,
+    "lon": -113.478156,
+    "new": false
+  },
+  {
+    "name": "NewLeaf Cannabis",
+    "lat": 53.4260271,
+    "lon": -113.4783062,
+    "new": true
+  },
+  {
     "name": "Bar Bricco",
     "lat": 53.5407753,
     "lon": -113.4984253,
@@ -10998,21 +11760,9 @@
     "new": false
   },
   {
-    "name": "Black Rifle Coffee",
-    "lat": 53.6454145,
-    "lon": -113.5715585,
-    "new": false
-  },
-  {
-    "name": "St Albert Dump Station",
-    "lat": 53.6442446,
-    "lon": -113.5705023,
-    "new": false
-  },
-  {
-    "name": "Starbucks",
-    "lat": 53.6448448,
-    "lon": -113.5746413,
+    "name": "Good Earth Coffeehouse",
+    "lat": 53.4242537,
+    "lon": -113.4763404,
     "new": false
   },
   {
@@ -11025,6 +11775,42 @@
     "name": "Bangz Hair Care",
     "lat": 53.5093993,
     "lon": -113.591383,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4374979,
+    "lon": -113.6061378,
+    "new": false
+  },
+  {
+    "name": "Mastermind Toys",
+    "lat": 53.4354672,
+    "lon": -113.6033638,
+    "new": false
+  },
+  {
+    "name": "Lola's Fashions",
+    "lat": 53.4354728,
+    "lon": -113.6032097,
+    "new": true
+  },
+  {
+    "name": "Little Leaf Baby",
+    "lat": 53.43547,
+    "lon": -113.603079,
+    "new": true
+  },
+  {
+    "name": "Frilly Lilly",
+    "lat": 53.4354755,
+    "lon": -113.6029435,
+    "new": true
+  },
+  {
+    "name": "The Makers Keep",
+    "lat": 53.4354755,
+    "lon": -113.6028174,
     "new": false
   },
   {
@@ -11100,6 +11886,12 @@
     "new": false
   },
   {
+    "name": "Dairy Queen",
+    "lat": 53.436148,
+    "lon": -113.6154024,
+    "new": false
+  },
+  {
     "name": "Uniqlo",
     "lat": 53.5223099,
     "lon": -113.6217037,
@@ -11110,6 +11902,12 @@
     "lat": 53.4738395,
     "lon": -113.494803,
     "new": false
+  },
+  {
+    "name": "Vivo Restorante & Bar",
+    "lat": 53.4375615,
+    "lon": -113.6034164,
+    "new": true
   },
   {
     "name": "AA Pediatric Medical Clinic",
@@ -11133,6 +11931,24 @@
     "name": "Tim Hortons",
     "lat": 53.6326014,
     "lon": -113.4418139,
+    "new": false
+  },
+  {
+    "name": "Ideal Day Care",
+    "lat": 53.4452066,
+    "lon": -113.4307397,
+    "new": true
+  },
+  {
+    "name": "Star Carwash",
+    "lat": 53.4451491,
+    "lon": -113.4301148,
+    "new": true
+  },
+  {
+    "name": "Circle K",
+    "lat": 53.4451841,
+    "lon": -113.4304317,
     "new": false
   },
   {
@@ -11196,6 +12012,12 @@
     "new": false
   },
   {
+    "name": "Buster's Pizza",
+    "lat": 53.396774,
+    "lon": -113.5297487,
+    "new": false
+  },
+  {
     "name": "Prestons Restaurant",
     "lat": 53.5420325,
     "lon": -113.5007864,
@@ -11205,6 +12027,18 @@
     "name": "Unknown",
     "lat": 53.4634451,
     "lon": -113.5340443,
+    "new": false
+  },
+  {
+    "name": "Beaners",
+    "lat": 53.4377492,
+    "lon": -113.6057768,
+    "new": false
+  },
+  {
+    "name": "Freshii",
+    "lat": 53.4362716,
+    "lon": -113.603925,
     "new": false
   },
   {
@@ -11562,6 +12396,18 @@
     "new": false
   },
   {
+    "name": "Liquor Depot at Jagare Ridge",
+    "lat": 53.411357,
+    "lon": -113.5675683,
+    "new": true
+  },
+  {
+    "name": "U\u2022STORE\u2022IT",
+    "lat": 53.4315266,
+    "lon": -113.4714896,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.4580142,
     "lon": -113.4286605,
@@ -11572,6 +12418,18 @@
     "lat": 53.5514579,
     "lon": -113.4908271,
     "new": false
+  },
+  {
+    "name": "Harvest Pointe South Shelter",
+    "lat": 53.4213891,
+    "lon": -113.4220652,
+    "new": true
+  },
+  {
+    "name": "Harvest Pointe Central Shelter",
+    "lat": 53.4229275,
+    "lon": -113.4216944,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -11616,9 +12474,57 @@
     "new": false
   },
   {
-    "name": "Turkish Coffee House",
-    "lat": 53.634556,
-    "lon": -113.6271508,
+    "name": "Workshop Eatery",
+    "lat": 53.4156855,
+    "lon": -113.4804231,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4107904,
+    "lon": -113.4813846,
+    "new": false
+  },
+  {
+    "name": "Oodle Noodle",
+    "lat": 53.4107946,
+    "lon": -113.4814828,
+    "new": false
+  },
+  {
+    "name": "Thirsty Camel",
+    "lat": 53.4106336,
+    "lon": -113.4823699,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4075729,
+    "lon": -113.4741121,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4075729,
+    "lon": -113.4742623,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4072083,
+    "lon": -113.474621,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4072137,
+    "lon": -113.4737365,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4054837,
+    "lon": -113.4742646,
     "new": false
   },
   {
@@ -11634,15 +12540,21 @@
     "new": false
   },
   {
+    "name": "Body Restoration - Windermere Studio",
+    "lat": 53.4288451,
+    "lon": -113.5908485,
+    "new": true
+  },
+  {
+    "name": "Clean Car Wash",
+    "lat": 53.4284935,
+    "lon": -113.5893572,
+    "new": true
+  },
+  {
     "name": "Cafeteria",
     "lat": 53.6366244,
     "lon": -113.3740734,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6403744,
-    "lon": -113.5680496,
     "new": false
   },
   {
@@ -11652,10 +12564,34 @@
     "new": false
   },
   {
+    "name": "Hello Mochi",
+    "lat": 53.4362734,
+    "lon": -113.6044868,
+    "new": true
+  },
+  {
+    "name": "Rogers",
+    "lat": 53.4354096,
+    "lon": -113.6029167,
+    "new": false
+  },
+  {
     "name": "The Happy Camel",
     "lat": 53.5000814,
     "lon": -113.628318,
     "new": false
+  },
+  {
+    "name": "KB&co",
+    "lat": 53.4354427,
+    "lon": -113.6042733,
+    "new": true
+  },
+  {
+    "name": "The Keg",
+    "lat": 53.4360687,
+    "lon": -113.6095167,
+    "new": true
   },
   {
     "name": "Church of Scientology of Alberta",
@@ -11670,9 +12606,33 @@
     "new": false
   },
   {
+    "name": "South-West Medical Clinic",
+    "lat": 53.4366013,
+    "lon": -113.6020567,
+    "new": true
+  },
+  {
+    "name": "Five Star Tailor",
+    "lat": 53.435478,
+    "lon": -113.6021814,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5185128,
+    "lon": -113.6908337,
+    "new": false
+  },
+  {
     "name": "The Black Bull Kitchen & Bar",
     "lat": 53.5564797,
     "lon": -113.607202,
+    "new": false
+  },
+  {
+    "name": "Popeyes",
+    "lat": 53.4270233,
+    "lon": -113.4814832,
     "new": false
   },
   {
@@ -11682,9 +12642,21 @@
     "new": false
   },
   {
+    "name": "Town Square Brewing Co.",
+    "lat": 53.4290373,
+    "lon": -113.4785303,
+    "new": true
+  },
+  {
     "name": "The Chopped Leaf",
     "lat": 53.541957,
     "lon": -113.4946412,
+    "new": false
+  },
+  {
+    "name": "The Chopped Leaf",
+    "lat": 53.4361292,
+    "lon": -113.615452,
     "new": false
   },
   {
@@ -11701,14 +12673,14 @@
   },
   {
     "name": "Chopped Leaf",
-    "lat": 53.5210943,
-    "lon": -113.5784757,
+    "lat": 53.423286,
+    "lon": -113.4196422,
     "new": false
   },
   {
-    "name": "Evoolution",
-    "lat": 53.6118209,
-    "lon": -113.646492,
+    "name": "Chopped Leaf",
+    "lat": 53.5210943,
+    "lon": -113.5784757,
     "new": false
   },
   {
@@ -11749,8 +12721,8 @@
   },
   {
     "name": "The Canadian Brewhouse",
-    "lat": 53.621235,
-    "lon": -113.6068404,
+    "lat": 53.4256692,
+    "lon": -113.478552,
     "new": false
   },
   {
@@ -11778,6 +12750,12 @@
     "new": false
   },
   {
+    "name": "IHOP",
+    "lat": 53.4232926,
+    "lon": -113.4200423,
+    "new": false
+  },
+  {
     "name": "No Frills",
     "lat": 53.4754368,
     "lon": -113.5273267,
@@ -11787,6 +12765,24 @@
     "name": "Find.",
     "lat": 53.4890788,
     "lon": -113.5423033,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4397111,
+    "lon": -113.5916985,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4396854,
+    "lon": -113.5913873,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4428661,
+    "lon": -113.5909671,
     "new": false
   },
   {
@@ -11874,9 +12870,9 @@
     "new": false
   },
   {
-    "name": "Cranky's Bike Shop",
-    "lat": 53.6346586,
-    "lon": -113.626942,
+    "name": "Unknown",
+    "lat": 53.4450341,
+    "lon": -113.4293401,
     "new": false
   },
   {
@@ -11914,6 +12910,12 @@
     "lat": 53.5395966,
     "lon": -113.6248236,
     "new": false
+  },
+  {
+    "name": "Coles",
+    "lat": -17.0193706,
+    "lon": 145.7276944,
+    "new": true
   },
   {
     "name": "Altima Hair",
@@ -12144,6 +13146,18 @@
     "new": false
   },
   {
+    "name": "Tutti Frutti",
+    "lat": 53.436558,
+    "lon": -113.6163219,
+    "new": false
+  },
+  {
+    "name": "Freedom Mobile",
+    "lat": 53.4364167,
+    "lon": -113.6166255,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.5535733,
     "lon": -113.4506741,
@@ -12157,8 +13171,44 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.6138973,
+    "lon": -113.2986385,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.6183737,
+    "lon": -113.3005428,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.541246,
     "lon": -113.458955,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.3997654,
+    "lon": -113.5341448,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.3997951,
+    "lon": -113.5340625,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.3998466,
+    "lon": -113.5339812,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.3998981,
+    "lon": -113.5339497,
     "new": false
   },
   {
@@ -12171,6 +13221,24 @@
     "name": "Unknown",
     "lat": 53.5422393,
     "lon": -113.4869116,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5102393,
+    "lon": -113.6810383,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5111766,
+    "lon": -113.6811293,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5020953,
+    "lon": -113.6702139,
     "new": false
   },
   {
@@ -12271,6 +13339,18 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4445075,
+    "lon": -113.5052292,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.444553,
+    "lon": -113.505134,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5050946,
     "lon": -113.4746586,
     "new": false
@@ -12321,6 +13401,12 @@
     "name": "Unknown",
     "lat": 53.5050764,
     "lon": -113.485647,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4494936,
+    "lon": -113.5374599,
     "new": false
   },
   {
@@ -12774,6 +13860,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4211934,
+    "lon": -113.4775407,
+    "new": false
+  },
+  {
     "name": "Bountiful Farmers' Market",
     "lat": 53.4720429,
     "lon": -113.4805927,
@@ -12808,6 +13900,12 @@
     "lat": 53.5253865,
     "lon": -113.4176575,
     "new": false
+  },
+  {
+    "name": "Nordstrom Rack",
+    "lat": 53.447473,
+    "lon": -113.4921384,
+    "new": true
   },
   {
     "name": "Edmonton Public Library",
@@ -12900,276 +13998,6 @@
     "new": false
   },
   {
-    "name": "Fruitella Donair",
-    "lat": 53.6412579,
-    "lon": -113.6262578,
-    "new": false
-  },
-  {
-    "name": "Exselsir",
-    "lat": 53.6418397,
-    "lon": -113.6274661,
-    "new": false
-  },
-  {
-    "name": "Papa John's",
-    "lat": 53.6419104,
-    "lon": -113.627502,
-    "new": false
-  },
-  {
-    "name": "M M Lingerie",
-    "lat": 53.6419874,
-    "lon": -113.6275173,
-    "new": false
-  },
-  {
-    "name": "Dollarama",
-    "lat": 53.6461995,
-    "lon": -113.6244502,
-    "new": false
-  },
-  {
-    "name": "Subway",
-    "lat": 53.6461831,
-    "lon": -113.6240726,
-    "new": false
-  },
-  {
-    "name": "Starbucks",
-    "lat": 53.6448952,
-    "lon": -113.6258018,
-    "new": false
-  },
-  {
-    "name": "Dollar & Party Store",
-    "lat": 53.6420644,
-    "lon": -113.6275281,
-    "new": false
-  },
-  {
-    "name": "Dental Centre",
-    "lat": 53.6421371,
-    "lon": -113.6275353,
-    "new": false
-  },
-  {
-    "name": "MediCentre",
-    "lat": 53.6422142,
-    "lon": -113.6275534,
-    "new": false
-  },
-  {
-    "name": "Tailor & Cleaner",
-    "lat": 53.6423703,
-    "lon": -113.6276256,
-    "new": false
-  },
-  {
-    "name": "Pho anh Soy",
-    "lat": 53.6424431,
-    "lon": -113.6275931,
-    "new": false
-  },
-  {
-    "name": "Fatburger",
-    "lat": 53.6425072,
-    "lon": -113.62769,
-    "new": false
-  },
-  {
-    "name": "Buffalo's",
-    "lat": 53.6425757,
-    "lon": -113.627658,
-    "new": false
-  },
-  {
-    "name": "Pizza 73",
-    "lat": 53.6431084,
-    "lon": -113.6281488,
-    "new": false
-  },
-  {
-    "name": "Flash Fashion",
-    "lat": 53.644131,
-    "lon": -113.6285061,
-    "new": false
-  },
-  {
-    "name": "Sherwin-Williams",
-    "lat": 53.6443706,
-    "lon": -113.628567,
-    "new": false
-  },
-  {
-    "name": "Medical Centre",
-    "lat": 53.644792,
-    "lon": -113.6284772,
-    "new": false
-  },
-  {
-    "name": "Dental Centre",
-    "lat": 53.6448412,
-    "lon": -113.6283762,
-    "new": false
-  },
-  {
-    "name": "Subway",
-    "lat": 53.642289,
-    "lon": -113.6275822,
-    "new": false
-  },
-  {
-    "name": "Dicey Reilly",
-    "lat": 53.6448468,
-    "lon": -113.6282781,
-    "new": false
-  },
-  {
-    "name": "Watch Jewelry",
-    "lat": 53.6448259,
-    "lon": -113.6281666,
-    "new": false
-  },
-  {
-    "name": "Edible Arrangements",
-    "lat": 53.6448868,
-    "lon": -113.6280785,
-    "new": false
-  },
-  {
-    "name": "Barber Shop",
-    "lat": 53.6448764,
-    "lon": -113.6279289,
-    "new": false
-  },
-  {
-    "name": "City Dry Cleaners",
-    "lat": 53.6449077,
-    "lon": -113.6277381,
-    "new": false
-  },
-  {
-    "name": "Mastermind Toys",
-    "lat": 53.6449268,
-    "lon": -113.6273,
-    "new": false
-  },
-  {
-    "name": "Pizza Hut",
-    "lat": 53.6452614,
-    "lon": -113.6277989,
-    "new": false
-  },
-  {
-    "name": "Rocky Mountain Roots",
-    "lat": 53.6454491,
-    "lon": -113.6276636,
-    "new": false
-  },
-  {
-    "name": "Wendy's",
-    "lat": 53.6475234,
-    "lon": -113.6286648,
-    "new": false
-  },
-  {
-    "name": "Lacombe Park Dental",
-    "lat": 53.6480665,
-    "lon": -113.6293198,
-    "new": false
-  },
-  {
-    "name": "Uncle Sam's",
-    "lat": 53.6481396,
-    "lon": -113.6293286,
-    "new": false
-  },
-  {
-    "name": "Barber Shop",
-    "lat": 53.6482057,
-    "lon": -113.6293462,
-    "new": false
-  },
-  {
-    "name": "Sunglasses Cove",
-    "lat": 53.6483692,
-    "lon": -113.6293785,
-    "new": false
-  },
-  {
-    "name": "Lacombe Park Spirits",
-    "lat": 53.6485257,
-    "lon": -113.629419,
-    "new": false
-  },
-  {
-    "name": "Thai MeKong",
-    "lat": 53.6485988,
-    "lon": -113.6294225,
-    "new": false
-  },
-  {
-    "name": "Blonde & Co",
-    "lat": 53.6486701,
-    "lon": -113.6294225,
-    "new": false
-  },
-  {
-    "name": "Mary Brown's",
-    "lat": 53.6486579,
-    "lon": -113.6286185,
-    "new": false
-  },
-  {
-    "name": "Blossoms",
-    "lat": 53.6487257,
-    "lon": -113.6286185,
-    "new": false
-  },
-  {
-    "name": "Cosmic Pizza",
-    "lat": 53.648797,
-    "lon": -113.6286273,
-    "new": false
-  },
-  {
-    "name": "Money Mart",
-    "lat": 53.648837,
-    "lon": -113.6287153,
-    "new": false
-  },
-  {
-    "name": "Tandori Fuzion",
-    "lat": 53.649449,
-    "lon": -113.6291912,
-    "new": false
-  },
-  {
-    "name": "Domino's",
-    "lat": 53.6495317,
-    "lon": -113.6291912,
-    "new": false
-  },
-  {
-    "name": "The Hair Lounge",
-    "lat": 53.6496384,
-    "lon": -113.6291961,
-    "new": false
-  },
-  {
-    "name": "Canna Cabana",
-    "lat": 53.6497335,
-    "lon": -113.629206,
-    "new": false
-  },
-  {
-    "name": "Nello's",
-    "lat": 53.6498315,
-    "lon": -113.6292134,
-    "new": false
-  },
-  {
     "name": "Dollarama",
     "lat": 53.5451631,
     "lon": -113.6115565,
@@ -13197,48 +14025,60 @@
     "name": "Westmount Dental Centre",
     "lat": 53.5604465,
     "lon": -113.5547217,
+    "new": false
+  },
+  {
+    "name": "Copper & Brick Interiors & Design",
+    "lat": 53.5392369,
+    "lon": -113.6868363,
     "new": true
   },
   {
-    "name": "Flame Kitchen",
-    "lat": 53.6365329,
-    "lon": -113.5752393,
+    "name": "Edmonton Flooring",
+    "lat": 53.5391792,
+    "lon": -113.6868363,
+    "new": true
+  },
+  {
+    "name": "Chateau Lighting",
+    "lat": 53.5391215,
+    "lon": -113.6868575,
+    "new": true
+  },
+  {
+    "name": "Vacant",
+    "lat": 53.5368822,
+    "lon": -113.6877762,
+    "new": true
+  },
+  {
+    "name": "Cosmic Pizza & Donair",
+    "lat": 53.5369236,
+    "lon": -113.6878162,
     "new": false
   },
   {
-    "name": "Ragged Hair Studio",
-    "lat": 53.6365904,
-    "lon": -113.5756476,
+    "name": "Kumon",
+    "lat": 53.5369861,
+    "lon": -113.6878255,
     "new": false
   },
   {
-    "name": "Phoenix Taekwon-Do",
-    "lat": 53.6371775,
-    "lon": -113.5767244,
-    "new": false
+    "name": "House Of Cuts",
+    "lat": 53.5370817,
+    "lon": -113.6878212,
+    "new": true
   },
   {
-    "name": "Fabricland",
-    "lat": 53.6371018,
-    "lon": -113.5763723,
-    "new": false
+    "name": "Secord DayCare",
+    "lat": 53.5371914,
+    "lon": -113.6878191,
+    "new": true
   },
   {
-    "name": "Endeavor Brewing Company",
-    "lat": 53.6370806,
-    "lon": -113.576015,
-    "new": false
-  },
-  {
-    "name": "Link's Sausage",
-    "lat": 53.6416101,
-    "lon": -113.5770868,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6416222,
-    "lon": -113.5772195,
+    "name": "Starbucks",
+    "lat": 53.5295814,
+    "lon": -113.6868198,
     "new": false
   },
   {
@@ -13284,18 +14124,6 @@
     "new": false
   },
   {
-    "name": "The Crown And Tower Pub and Bar",
-    "lat": 53.646097,
-    "lon": -113.6246147,
-    "new": false
-  },
-  {
-    "name": "RBC",
-    "lat": 53.6458305,
-    "lon": -113.6247657,
-    "new": false
-  },
-  {
     "name": "Unknown",
     "lat": 53.554975,
     "lon": -113.4352729,
@@ -13314,6 +14142,12 @@
     "new": false
   },
   {
+    "name": "Southport Daycare",
+    "lat": 53.4007263,
+    "lon": -113.4914282,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.5376688,
     "lon": -113.437022,
@@ -13330,6 +14164,12 @@
     "lat": 53.5466892,
     "lon": -113.5363368,
     "new": false
+  },
+  {
+    "name": "Healthwise Optimum Massage",
+    "lat": 53.4191963,
+    "lon": -113.621872,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -13360,6 +14200,18 @@
     "lat": 53.5189353,
     "lon": -113.5320784,
     "new": false
+  },
+  {
+    "name": "Norampac",
+    "lat": 53.5659548,
+    "lon": -113.6515047,
+    "new": true
+  },
+  {
+    "name": "Portside Warehousing",
+    "lat": 53.565066,
+    "lon": -113.6515407,
+    "new": true
   },
   {
     "name": "Overhead Door Pros",
@@ -13401,12 +14253,6 @@
     "name": "Dulux Paints",
     "lat": 53.5614272,
     "lon": -113.5663833,
-    "new": false
-  },
-  {
-    "name": "MVMT Physio & Chiro",
-    "lat": 53.6281114,
-    "lon": -113.6202518,
     "new": false
   },
   {
@@ -13504,6 +14350,18 @@
     "lat": 53.5227025,
     "lon": -113.6218682,
     "new": false
+  },
+  {
+    "name": "Commonwealth Bank",
+    "lat": -17.0199651,
+    "lon": 145.7448937,
+    "new": true
+  },
+  {
+    "name": "Vinnies",
+    "lat": -17.0199016,
+    "lon": 145.7448638,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -13638,10 +14496,22 @@
     "new": false
   },
   {
+    "name": "Cairns South Health Facility",
+    "lat": -17.0178908,
+    "lon": 145.7246584,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.470155,
     "lon": -113.3852356,
     "new": false
+  },
+  {
+    "name": "MJ Therapeutic Massage Clinic & Spa",
+    "lat": 53.5284735,
+    "lon": -113.7055588,
+    "new": true
   },
   {
     "name": "Tim Hortons",
@@ -13672,6 +14542,12 @@
     "lat": 53.4592543,
     "lon": -113.4943441,
     "new": false
+  },
+  {
+    "name": "Registry West",
+    "lat": 53.5094688,
+    "lon": -113.6744917,
+    "new": true
   },
   {
     "name": "Passport Health Downtown Edmonton Travel Clinic",
@@ -14010,21 +14886,117 @@
     "new": false
   },
   {
+    "name": "7-Eleven",
+    "lat": 53.5508194,
+    "lon": -113.690741,
+    "new": false
+  },
+  {
     "name": "Dogpatch",
     "lat": 53.5446843,
     "lon": -113.471147,
     "new": false
   },
   {
+    "name": "Pepe's Mexican Grill",
+    "lat": 36.9800162,
+    "lon": -85.6183533,
+    "new": true
+  },
+  {
+    "name": "H.J. Shirts & more",
+    "lat": 36.9801057,
+    "lon": -85.6187327,
+    "new": true
+  },
+  {
     "name": "Unknown",
-    "lat": 53.5664016,
-    "lon": -113.3674227,
+    "lat": 36.9797385,
+    "lon": -85.6133203,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 36.979736,
+    "lon": -85.613461,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 36.9796328,
+    "lon": -85.6135324,
+    "new": false
+  },
+  {
+    "name": "Metcalfe County Child Development Center",
+    "lat": 37.0013244,
+    "lon": -85.6070844,
+    "new": true
+  },
+  {
+    "name": "Golden Years",
+    "lat": 37.0014204,
+    "lon": -85.606727,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 36.9817474,
+    "lon": -85.6228359,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 36.9873006,
+    "lon": -85.6335342,
+    "new": false
+  },
+  {
+    "name": "Edmonton Police Department",
+    "lat": 36.9797977,
+    "lon": -85.611948,
+    "new": true
+  },
+  {
+    "name": "Subway",
+    "lat": 36.9798225,
+    "lon": -85.6117816,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 36.9798941,
+    "lon": -85.611302,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 36.979918,
+    "lon": -85.6121662,
+    "new": false
+  },
+  {
+    "name": "U-Haul",
+    "lat": 36.9773296,
+    "lon": -85.6115462,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 36.9788765,
+    "lon": -85.6124748,
     "new": false
   },
   {
     "name": "MKT Fresh Food | Beer Market",
     "lat": 53.5169684,
     "lon": -113.4944993,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4279663,
+    "lon": -113.3950243,
     "new": false
   },
   {
@@ -14427,72 +15399,6 @@
     "name": "Opal's Artistry in Flowers & Balloons",
     "lat": 53.6007255,
     "lon": -113.4242229,
-    "new": false
-  },
-  {
-    "name": "Esso",
-    "lat": 53.6154379,
-    "lon": -113.63855,
-    "new": false
-  },
-  {
-    "name": "Tryst Wine & Small Plates",
-    "lat": 53.6349346,
-    "lon": -113.6262193,
-    "new": false
-  },
-  {
-    "name": "The Cajun House",
-    "lat": 53.6352888,
-    "lon": -113.6258358,
-    "new": false
-  },
-  {
-    "name": "St. Albert Public Library",
-    "lat": 53.6329577,
-    "lon": -113.6283544,
-    "new": false
-  },
-  {
-    "name": "Midtown Apothecary Ltd.",
-    "lat": 53.6327653,
-    "lon": -113.6259887,
-    "new": false
-  },
-  {
-    "name": "La Crema Caff\u00e9",
-    "lat": 53.6325132,
-    "lon": -113.6254147,
-    "new": false
-  },
-  {
-    "name": "DJ's Lounge",
-    "lat": 53.6327645,
-    "lon": -113.6246449,
-    "new": false
-  },
-  {
-    "name": "Candy Boutique",
-    "lat": 53.6339971,
-    "lon": -113.6258747,
-    "new": false
-  },
-  {
-    "name": "San Remo",
-    "lat": 53.6338476,
-    "lon": -113.6257486,
-    "new": false
-  },
-  {
-    "name": "Cerdo Tacos + Tequila",
-    "lat": 53.6343696,
-    "lon": -113.6252839,
-    "new": false
-  },
-  {
-    "name": "Jack's Burger Shack",
-    "lat": 53.6341708,
-    "lon": -113.6254583,
     "new": false
   },
   {
@@ -17946,174 +18852,6 @@
     "new": false
   },
   {
-    "name": "Remedy'sRx",
-    "lat": 53.6200821,
-    "lon": -113.6096123,
-    "new": false
-  },
-  {
-    "name": "Saigon Cuisine",
-    "lat": 53.6200064,
-    "lon": -113.6097883,
-    "new": false
-  },
-  {
-    "name": "Edo Japan",
-    "lat": 53.6205709,
-    "lon": -113.6087523,
-    "new": false
-  },
-  {
-    "name": "Joey's Fish Shack",
-    "lat": 53.6205681,
-    "lon": -113.6092388,
-    "new": false
-  },
-  {
-    "name": "Master Pita",
-    "lat": 53.62064,
-    "lon": -113.6091635,
-    "new": false
-  },
-  {
-    "name": "Press'd Sandwich Shop",
-    "lat": 53.6207119,
-    "lon": -113.6090703,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6205113,
-    "lon": -113.6092974,
-    "new": false
-  },
-  {
-    "name": "Ricky's",
-    "lat": 53.6202476,
-    "lon": -113.6116799,
-    "new": false
-  },
-  {
-    "name": "Pet Valu",
-    "lat": 53.6195127,
-    "lon": -113.6126036,
-    "new": false
-  },
-  {
-    "name": "Tommy Gun's",
-    "lat": 53.6198552,
-    "lon": -113.6130258,
-    "new": false
-  },
-  {
-    "name": "Simply Donairs",
-    "lat": 53.6197867,
-    "lon": -113.6129266,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6197353,
-    "lon": -113.6128454,
-    "new": false
-  },
-  {
-    "name": "Panago",
-    "lat": 53.6196871,
-    "lon": -113.6127732,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6196026,
-    "lon": -113.6126974,
-    "new": false
-  },
-  {
-    "name": "Pop's Ice Cream Shoppe",
-    "lat": 53.6201251,
-    "lon": -113.6133224,
-    "new": false
-  },
-  {
-    "name": "Tokyo Express",
-    "lat": 53.6204127,
-    "lon": -113.613695,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6202689,
-    "lon": -113.6135036,
-    "new": false
-  },
-  {
-    "name": "Expedia Cruises",
-    "lat": 53.620334,
-    "lon": -113.6136108,
-    "new": false
-  },
-  {
-    "name": "Jade Village",
-    "lat": 53.6210689,
-    "lon": -113.6131527,
-    "new": false
-  },
-  {
-    "name": "Petro-Canada",
-    "lat": 53.62381,
-    "lon": -113.6140504,
-    "new": false
-  },
-  {
-    "name": "Bodega St. Albert",
-    "lat": 53.6224862,
-    "lon": -113.6095838,
-    "new": false
-  },
-  {
-    "name": "Oxford Learning",
-    "lat": 53.6226376,
-    "lon": -113.6094078,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6252938,
-    "lon": -113.6170172,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6254073,
-    "lon": -113.6168998,
-    "new": false
-  },
-  {
-    "name": "Esso",
-    "lat": 53.6267048,
-    "lon": -113.6181323,
-    "new": false
-  },
-  {
-    "name": "Tim Hortons",
-    "lat": 53.6267936,
-    "lon": -113.6182658,
-    "new": false
-  },
-  {
-    "name": "7-Eleven",
-    "lat": 53.6483537,
-    "lon": -113.6282903,
-    "new": false
-  },
-  {
-    "name": "Tim Hortons",
-    "lat": 53.6476335,
-    "lon": -113.6286968,
-    "new": false
-  },
-  {
     "name": "Glenwood Sport & Spine",
     "lat": 53.5397569,
     "lon": -113.605529,
@@ -18510,6 +19248,18 @@
     "new": false
   },
   {
+    "name": "87 Donair",
+    "lat": 53.521729,
+    "lon": -113.6502429,
+    "new": true
+  },
+  {
+    "name": "Park West Liquor Loft",
+    "lat": 53.5217264,
+    "lon": -113.6501274,
+    "new": true
+  },
+  {
     "name": "Flaman Edmonton",
     "lat": 53.581934,
     "lon": -113.4793485,
@@ -18540,10 +19290,22 @@
     "new": false
   },
   {
+    "name": "Canvastone Children's Art School",
+    "lat": 53.4816471,
+    "lon": -113.684993,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.5707055,
     "lon": -113.5303238,
     "new": false
+  },
+  {
+    "name": "Walker Lake Meat Shop",
+    "lat": 53.4132578,
+    "lon": -113.4187831,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -18669,6 +19431,24 @@
     "name": "Unknown",
     "lat": 53.5028851,
     "lon": -113.517842,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4412054,
+    "lon": -113.3797176,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4411753,
+    "lon": -113.3796963,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4411435,
+    "lon": -113.379671,
     "new": false
   },
   {
@@ -19341,6 +20121,54 @@
     "name": "Unknown",
     "lat": 53.5360873,
     "lon": -113.5045423,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4590545,
+    "lon": -113.6598947,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4586496,
+    "lon": -113.6598513,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4588279,
+    "lon": -113.65972,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4590436,
+    "lon": -113.6597718,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4590448,
+    "lon": -113.6598168,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4941441,
+    "lon": -113.6758651,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.490617,
+    "lon": -113.6754156,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4886097,
+    "lon": -113.6760894,
     "new": false
   },
   {
@@ -20611,8 +21439,8 @@
   },
   {
     "name": "Unknown",
-    "lat": 53.6100464,
-    "lon": -113.6487101,
+    "lat": 53.4211649,
+    "lon": -113.5372704,
     "new": false
   },
   {
@@ -20631,6 +21459,54 @@
     "name": "Unknown",
     "lat": 53.4766074,
     "lon": -113.4419317,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4065926,
+    "lon": -113.5137792,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4065515,
+    "lon": -113.5137897,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4064673,
+    "lon": -113.5137594,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4064582,
+    "lon": -113.5137045,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4066645,
+    "lon": -113.5134276,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.406422,
+    "lon": -113.5139603,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4063802,
+    "lon": -113.5135852,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4062251,
+    "lon": -113.5134357,
     "new": false
   },
   {
@@ -21547,6 +22423,12 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.5004017,
+    "lon": -113.6712872,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.62956,
     "lon": -113.5560026,
     "new": false
@@ -21561,6 +22443,24 @@
     "name": "Unknown",
     "lat": 53.6294113,
     "lon": -113.5546825,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.480776,
+    "lon": -113.346584,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4805279,
+    "lon": -113.346829,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.3994585,
+    "lon": -113.5473422,
     "new": false
   },
   {
@@ -21612,12 +22512,6 @@
     "new": false
   },
   {
-    "name": "A Boutique Gallery Bar by Gracie Jane",
-    "lat": 53.6352343,
-    "lon": -113.6264965,
-    "new": false
-  },
-  {
     "name": "Enjoy Dental",
     "lat": 53.6137372,
     "lon": -113.5154572,
@@ -21628,6 +22522,12 @@
     "lat": 53.5069506,
     "lon": -113.512456,
     "new": false
+  },
+  {
+    "name": "Newbury Dental",
+    "lat": 53.3969151,
+    "lon": -113.5944949,
+    "new": true
   },
   {
     "name": "BBQ To Go",
@@ -21642,21 +22542,33 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.3994754,
+    "lon": -113.5510747,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5366127,
+    "lon": -113.6888399,
+    "new": false
+  },
+  {
     "name": "Hype Fetish Sneaker Store",
     "lat": 53.5459878,
     "lon": -113.4986889,
     "new": false
   },
   {
+    "name": "Jimmy's RV Storage | RV Storage",
+    "lat": 53.5658848,
+    "lon": -113.7110742,
+    "new": true
+  },
+  {
     "name": "Brintnell Smiles Dental Group - North",
     "lat": 53.6274886,
     "lon": -113.4112785,
-    "new": false
-  },
-  {
-    "name": "Smiles Dental Group - St Albert Dentist",
-    "lat": 53.6460562,
-    "lon": -113.6246504,
     "new": false
   },
   {
@@ -21675,6 +22587,18 @@
     "name": "Unknown",
     "lat": 53.4547169,
     "lon": -113.3642649,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.606493,
+    "lon": -113.3314298,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.6098408,
+    "lon": -113.3491143,
     "new": false
   },
   {
@@ -21720,6 +22644,24 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.6218352,
+    "lon": -113.3106259,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.6226043,
+    "lon": -113.3151515,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.6062133,
+    "lon": -113.3065778,
+    "new": false
+  },
+  {
     "name": "The UPS Store",
     "lat": 53.4548719,
     "lon": -113.5635131,
@@ -21735,6 +22677,54 @@
     "name": "Unknown",
     "lat": 53.5372629,
     "lon": -113.4587261,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5288802,
+    "lon": -113.6801746,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5288798,
+    "lon": -113.679767,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5288726,
+    "lon": -113.6798488,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5291078,
+    "lon": -113.6797757,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5291254,
+    "lon": -113.6798226,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5291301,
+    "lon": -113.6798789,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5291098,
+    "lon": -113.6801894,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5290867,
+    "lon": -113.6802109,
     "new": false
   },
   {
@@ -21832,6 +22822,12 @@
     "lat": 53.4549978,
     "lon": -113.4359177,
     "new": false
+  },
+  {
+    "name": "Firezone Pizza & Donair",
+    "lat": 53.5089575,
+    "lon": -113.6746793,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -22596,6 +23592,48 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4407705,
+    "lon": -113.6145209,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4407657,
+    "lon": -113.6144726,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4406275,
+    "lon": -113.6139938,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4406116,
+    "lon": -113.613963,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4404198,
+    "lon": -113.6139147,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4404198,
+    "lon": -113.6142379,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4404518,
+    "lon": -113.6143613,
+    "new": false
+  },
+  {
     "name": "BAIJIU",
     "lat": 53.5458497,
     "lon": -113.4990164,
@@ -22624,6 +23662,24 @@
     "lat": 53.6272612,
     "lon": -113.414535,
     "new": false
+  },
+  {
+    "name": "Bob's Auto",
+    "lat": 36.9858979,
+    "lon": -85.611819,
+    "new": true
+  },
+  {
+    "name": "Family Dollar + Dollar Tree",
+    "lat": 36.9864805,
+    "lon": -85.6113073,
+    "new": true
+  },
+  {
+    "name": "Burkmann Feeds",
+    "lat": 36.9852616,
+    "lon": -85.6116696,
+    "new": true
   },
   {
     "name": "CellShoppe",
@@ -22785,186 +23841,6 @@
     "name": "Sweet Pea Cafe & Playhouse",
     "lat": 53.5178356,
     "lon": -113.5664243,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6322502,
-    "lon": -113.6270575,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6322734,
-    "lon": -113.626959,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6322217,
-    "lon": -113.6269496,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.632207,
-    "lon": -113.6269908,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.633374,
-    "lon": -113.6284972,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6333374,
-    "lon": -113.6284268,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6333784,
-    "lon": -113.6283242,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6334333,
-    "lon": -113.6283651,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6334706,
-    "lon": -113.6283691,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6334798,
-    "lon": -113.6285408,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6333891,
-    "lon": -113.6286595,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6333255,
-    "lon": -113.6287433,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6333044,
-    "lon": -113.6287701,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6332321,
-    "lon": -113.6288606,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6331959,
-    "lon": -113.6288559,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6331577,
-    "lon": -113.6288479,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6329466,
-    "lon": -113.6290973,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6325148,
-    "lon": -113.6301836,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6324957,
-    "lon": -113.6302172,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6325005,
-    "lon": -113.6302628,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6322086,
-    "lon": -113.6305766,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6320082,
-    "lon": -113.631282,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6308504,
-    "lon": -113.6328243,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6311525,
-    "lon": -113.6324555,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6311557,
-    "lon": -113.6325239,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6311207,
-    "lon": -113.6325748,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6310818,
-    "lon": -113.6325681,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6316862,
-    "lon": -113.6318922,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6343521,
-    "lon": -113.6274739,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.634007,
-    "lon": -113.6278126,
     "new": false
   },
   {
@@ -23352,6 +24228,12 @@
     "new": false
   },
   {
+    "name": "7-Eleven",
+    "lat": 53.4148869,
+    "lon": -113.6015332,
+    "new": false
+  },
+  {
     "name": "Edmonton Tower Parking",
     "lat": 53.5456557,
     "lon": -113.495336,
@@ -23490,6 +24372,12 @@
     "new": false
   },
   {
+    "name": "Snap SEO",
+    "lat": 53.5250904,
+    "lon": -113.6953051,
+    "new": true
+  },
+  {
     "name": "Glassy Liquor",
     "lat": 53.6065623,
     "lon": -113.5150628,
@@ -23544,12 +24432,6 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6344641,
-    "lon": -113.6289778,
-    "new": false
-  },
-  {
     "name": "Petland",
     "lat": 53.4707578,
     "lon": -113.4935612,
@@ -23562,16 +24444,28 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6286543,
-    "lon": -113.6323717,
-    "new": false
-  },
-  {
     "name": "Roots Childcare Centre",
     "lat": 53.6065317,
     "lon": -113.5159023,
     "new": false
+  },
+  {
+    "name": "Joe's Pizza",
+    "lat": -17.020056,
+    "lon": 145.7446108,
+    "new": true
+  },
+  {
+    "name": "Kebab Fish & Chips",
+    "lat": -17.0201853,
+    "lon": 145.744983,
+    "new": true
+  },
+  {
+    "name": "Australia Post",
+    "lat": -17.0200985,
+    "lon": 145.7444969,
+    "new": true
   },
   {
     "name": "The 3 Amigos",
@@ -23631,12 +24525,6 @@
     "name": "Kind",
     "lat": 53.512106,
     "lon": -113.4759891,
-    "new": false
-  },
-  {
-    "name": "Carmela\u2019s Whisk Bakeshop + Coffeehouse",
-    "lat": 53.629384,
-    "lon": -113.6287617,
     "new": false
   },
   {
@@ -24552,6 +25440,12 @@
     "new": false
   },
   {
+    "name": "Shell",
+    "lat": 53.5661381,
+    "lon": -113.6875468,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.5599312,
     "lon": -113.4589286,
@@ -24660,33 +25554,15 @@
     "new": false
   },
   {
-    "name": "A&W",
-    "lat": 53.6430327,
-    "lon": -113.621368,
-    "new": false
-  },
-  {
-    "name": "Tim Hortons",
-    "lat": 53.6430756,
-    "lon": -113.621422,
-    "new": false
-  },
-  {
-    "name": "Canada Post",
-    "lat": 53.6437538,
-    "lon": -113.622407,
-    "new": false
-  },
-  {
-    "name": "Hope Medical Clinic",
-    "lat": 53.6437093,
-    "lon": -113.6222765,
-    "new": false
-  },
-  {
     "name": "Canada Post",
     "lat": 53.4527222,
     "lon": -113.5633699,
+    "new": false
+  },
+  {
+    "name": "Canada Post",
+    "lat": 53.4351982,
+    "lon": -113.571084,
     "new": false
   },
   {
@@ -24867,6 +25743,18 @@
     "name": "Ascension",
     "lat": 53.5652126,
     "lon": -113.4378317,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.532354,
+    "lon": -113.7068463,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.532664,
+    "lon": -113.7057122,
     "new": false
   },
   {
@@ -25566,12 +26454,6 @@
     "new": false
   },
   {
-    "name": "St Thomas Surgical Clinic",
-    "lat": 53.6323731,
-    "lon": -113.6258068,
-    "new": false
-  },
-  {
     "name": "Unknown",
     "lat": 53.6079312,
     "lon": -113.4995694,
@@ -25683,6 +26565,42 @@
     "name": "Hobby Wholesale",
     "lat": 53.499108,
     "lon": -113.4939492,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4307894,
+    "lon": -113.5183783,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4316558,
+    "lon": -113.5193075,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4318842,
+    "lon": -113.5231578,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4428952,
+    "lon": -113.4781286,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4439056,
+    "lon": -113.4787809,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4439032,
+    "lon": -113.4778611,
     "new": false
   },
   {
@@ -25956,6 +26874,18 @@
     "new": false
   },
   {
+    "name": "KFC",
+    "lat": 53.5210309,
+    "lon": -113.5909752,
+    "new": false
+  },
+  {
+    "name": "Taco Bell",
+    "lat": 53.5210165,
+    "lon": -113.5908965,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.5470048,
     "lon": -113.5257905,
@@ -26094,6 +27024,18 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4241592,
+    "lon": -113.487126,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4711874,
+    "lon": -113.6652551,
+    "new": false
+  },
+  {
     "name": "Nagoya Japanese",
     "lat": 53.6276504,
     "lon": -113.4102229,
@@ -26130,6 +27072,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4384126,
+    "lon": -113.619801,
+    "new": false
+  },
+  {
     "name": "ICE District Authentics - The Official Oilers Team Store",
     "lat": 53.545635,
     "lon": -113.4976741,
@@ -26155,8 +27103,74 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4151854,
+    "lon": -113.6014288,
+    "new": false
+  },
+  {
+    "name": "Esso",
+    "lat": 53.4243262,
+    "lon": -113.6044073,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.573843,
     "lon": -113.4666603,
+    "new": false
+  },
+  {
+    "name": "Starbucks",
+    "lat": 53.4100247,
+    "lon": -113.4450719,
+    "new": false
+  },
+  {
+    "name": "Plantlife Cannabis",
+    "lat": 53.4100235,
+    "lon": -113.4441341,
+    "new": false
+  },
+  {
+    "name": "Papa John's",
+    "lat": 53.4100247,
+    "lon": -113.4439454,
+    "new": false
+  },
+  {
+    "name": "Subway",
+    "lat": 53.4100293,
+    "lon": -113.4438472,
+    "new": false
+  },
+  {
+    "name": "Massage Experts",
+    "lat": 53.4100247,
+    "lon": -113.444032,
+    "new": true
+  },
+  {
+    "name": "Orchards Smiles Dental",
+    "lat": 53.4100224,
+    "lon": -113.4442516,
+    "new": true
+  },
+  {
+    "name": "Co-op Wine Spirits Beer",
+    "lat": 53.4100226,
+    "lon": -113.4447446,
+    "new": true
+  },
+  {
+    "name": "DQ Grill & Chill",
+    "lat": 53.4099176,
+    "lon": -113.4434535,
+    "new": true
+  },
+  {
+    "name": "Pet Valu",
+    "lat": 53.4097729,
+    "lon": -113.4434107,
     "new": false
   },
   {
@@ -26181,6 +27195,24 @@
     "name": "Freson Bros.",
     "lat": 53.5518939,
     "lon": -113.5669102,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4123547,
+    "lon": -113.5675766,
+    "new": false
+  },
+  {
+    "name": "Co-op Wine Spirits Beer",
+    "lat": 53.4095361,
+    "lon": -113.5682248,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4094838,
+    "lon": -113.569971,
     "new": false
   },
   {
@@ -26211,6 +27243,18 @@
     "name": "Unknown",
     "lat": 53.6090484,
     "lon": -113.4072442,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4825705,
+    "lon": -113.664697,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.481239,
+    "lon": -113.6661556,
     "new": false
   },
   {
@@ -26323,6 +27367,42 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4295734,
+    "lon": -113.4992677,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.429559,
+    "lon": -113.4994923,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4295175,
+    "lon": -113.4998028,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4295187,
+    "lon": -113.4998346,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4295886,
+    "lon": -113.4992925,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4294116,
+    "lon": -113.4993716,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.490888,
     "lon": -113.5157518,
     "new": false
@@ -26389,8 +27469,32 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4890755,
+    "lon": -113.6661865,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4836446,
+    "lon": -113.6636099,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4848488,
+    "lon": -113.6628611,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5474583,
     "lon": -113.5056681,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.3985425,
+    "lon": -113.541765,
     "new": false
   },
   {
@@ -26503,12 +27607,6 @@
   },
   {
     "name": "Unknown",
-    "lat": 53.6369034,
-    "lon": -113.6256427,
-    "new": false
-  },
-  {
-    "name": "Unknown",
     "lat": 53.5783993,
     "lon": -113.4172972,
     "new": false
@@ -26562,18 +27660,6 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6373582,
-    "lon": -113.620179,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.632574,
-    "lon": -113.6209729,
-    "new": false
-  },
-  {
     "name": "Travel Gurus",
     "lat": 53.4925093,
     "lon": -113.4974609,
@@ -26586,195 +27672,9 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6450115,
-    "lon": -113.6168608,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.636839,
-    "lon": -113.622316,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6368346,
-    "lon": -113.6223409,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6370358,
-    "lon": -113.6214698,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6370521,
-    "lon": -113.6215268,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6370338,
-    "lon": -113.6215965,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6369976,
-    "lon": -113.6216153,
-    "new": false
-  },
-  {
     "name": "eMotors Direct",
     "lat": 53.5670736,
     "lon": -113.629877,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.646316,
-    "lon": -113.6111195,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6463021,
-    "lon": -113.6111064,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6462747,
-    "lon": -113.6110789,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.646252,
-    "lon": -113.6110461,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6467342,
-    "lon": -113.6111507,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.646669,
-    "lon": -113.6139348,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6486023,
-    "lon": -113.6124851,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6477446,
-    "lon": -113.6128405,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6479814,
-    "lon": -113.6115436,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6481373,
-    "lon": -113.6123791,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6476293,
-    "lon": -113.6129934,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6470116,
-    "lon": -113.6115282,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.647041,
-    "lon": -113.6116207,
-    "new": false
-  },
-  {
-    "name": "concession stand",
-    "lat": 53.647398,
-    "lon": -113.6114216,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.647328,
-    "lon": -113.6129545,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6470394,
-    "lon": -113.6126373,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6470442,
-    "lon": -113.6123188,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6459456,
-    "lon": -113.6110897,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6460187,
-    "lon": -113.6111118,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6459885,
-    "lon": -113.6111205,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6459595,
-    "lon": -113.6111058,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6459666,
-    "lon": -113.6109314,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6372032,
-    "lon": -113.5992397,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6370143,
-    "lon": -113.5992108,
     "new": false
   },
   {
@@ -26793,12 +27693,6 @@
     "name": "Cosmic Pizza & Donair",
     "lat": 53.5431461,
     "lon": -113.499988,
-    "new": false
-  },
-  {
-    "name": "Pizza Garage",
-    "lat": 53.6364502,
-    "lon": -113.6069959,
     "new": false
   },
   {
@@ -26893,18 +27787,6 @@
   },
   {
     "name": "Unknown",
-    "lat": 53.6317708,
-    "lon": -113.6229189,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6317315,
-    "lon": -113.622947,
-    "new": false
-  },
-  {
-    "name": "Unknown",
     "lat": 53.5220156,
     "lon": -113.6288792,
     "new": false
@@ -26949,30 +27831,6 @@
     "name": "Dream Riders",
     "lat": 53.5228064,
     "lon": -113.6276057,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6410157,
-    "lon": -113.5955161,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.641131,
-    "lon": -113.5952613,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6410081,
-    "lon": -113.5950729,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6409044,
-    "lon": -113.5953411,
     "new": false
   },
   {
@@ -27234,48 +28092,6 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6483097,
-    "lon": -113.5874487,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6487962,
-    "lon": -113.587613,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6468574,
-    "lon": -113.5883921,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6477072,
-    "lon": -113.5871784,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6480482,
-    "lon": -113.5880958,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6483829,
-    "lon": -113.5874265,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6483519,
-    "lon": -113.587444,
-    "new": false
-  },
-  {
     "name": "Community Natural Foods",
     "lat": 53.5155215,
     "lon": -113.49646,
@@ -27285,6 +28101,108 @@
     "name": "Sushi-Tokyo Express",
     "lat": 53.5233669,
     "lon": -113.6260167,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4090438,
+    "lon": -113.5330446,
+    "new": false
+  },
+  {
+    "name": "Freshii",
+    "lat": 53.5081232,
+    "lon": -113.6869064,
+    "new": false
+  },
+  {
+    "name": "COBS Bread",
+    "lat": 53.5080902,
+    "lon": -113.6868169,
+    "new": false
+  },
+  {
+    "name": "Sally Beauty",
+    "lat": 53.5078114,
+    "lon": -113.6878822,
+    "new": false
+  },
+  {
+    "name": "Q-Nails",
+    "lat": 53.507754,
+    "lon": -113.6878821,
+    "new": false
+  },
+  {
+    "name": "Si Salon & Spa",
+    "lat": 53.5076921,
+    "lon": -113.6878822,
+    "new": true
+  },
+  {
+    "name": "Papa John's",
+    "lat": 53.5076244,
+    "lon": -113.6878811,
+    "new": false
+  },
+  {
+    "name": "Supplement World",
+    "lat": 53.5075597,
+    "lon": -113.6878854,
+    "new": false
+  },
+  {
+    "name": "Denny's",
+    "lat": 53.5079074,
+    "lon": -113.6878824,
+    "new": false
+  },
+  {
+    "name": "Ace Liquor",
+    "lat": 53.5071987,
+    "lon": -113.6879438,
+    "new": false
+  },
+  {
+    "name": "Popeyes",
+    "lat": 53.5070502,
+    "lon": -113.687949,
+    "new": false
+  },
+  {
+    "name": "Granville Childcare Centre",
+    "lat": 53.5069088,
+    "lon": -113.6862322,
+    "new": true
+  },
+  {
+    "name": "Pet Planet",
+    "lat": 53.5069892,
+    "lon": -113.6861841,
+    "new": false
+  },
+  {
+    "name": "Beyond Buoyancy Float Spa",
+    "lat": 53.5070923,
+    "lon": -113.6861187,
+    "new": true
+  },
+  {
+    "name": "Hawkstone Dental Clinic",
+    "lat": 53.507184,
+    "lon": -113.6860305,
+    "new": true
+  },
+  {
+    "name": "Granville Veterinary Clinic",
+    "lat": 53.5072666,
+    "lon": -113.6859665,
+    "new": true
+  },
+  {
+    "name": "Dollar Tree",
+    "lat": 53.5074256,
+    "lon": -113.6858395,
     "new": false
   },
   {
@@ -27570,6 +28488,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4172789,
+    "lon": -113.5191599,
+    "new": false
+  },
+  {
     "name": "Stopgap Coffee",
     "lat": 53.5354884,
     "lon": -113.5118841,
@@ -27658,6 +28582,12 @@
     "lat": 53.502436,
     "lon": -113.4855134,
     "new": false
+  },
+  {
+    "name": "Smitty's",
+    "lat": 53.560673,
+    "lon": -113.553413,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -27771,6 +28701,18 @@
     "name": "Unknown",
     "lat": 53.5444514,
     "lon": -113.5624699,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5181276,
+    "lon": -113.6905984,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5181271,
+    "lon": -113.6905417,
     "new": false
   },
   {
@@ -27997,12 +28939,6 @@
   },
   {
     "name": "Unknown",
-    "lat": 53.6473022,
-    "lon": -113.6065433,
-    "new": false
-  },
-  {
-    "name": "Unknown",
     "lat": 53.5198912,
     "lon": -113.4560963,
     "new": false
@@ -28011,54 +28947,6 @@
     "name": "Unknown",
     "lat": 53.5226356,
     "lon": -113.4561777,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6476738,
-    "lon": -113.6011501,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6475438,
-    "lon": -113.600155,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6474357,
-    "lon": -113.5999632,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6474691,
-    "lon": -113.600216,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6469472,
-    "lon": -113.6028325,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6469663,
-    "lon": -113.6025663,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6469568,
-    "lon": -113.6026253,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.646946,
-    "lon": -113.6026923,
     "new": false
   },
   {
@@ -28107,12 +28995,6 @@
     "name": "Crest Convenience Corner",
     "lat": 53.57074,
     "lon": -113.3948647,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6493773,
-    "lon": -113.6159149,
     "new": false
   },
   {
@@ -28167,18 +29049,6 @@
     "name": "Unknown",
     "lat": 53.5702199,
     "lon": -113.5607133,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6362788,
-    "lon": -113.623356,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6366182,
-    "lon": -113.6242533,
     "new": false
   },
   {
@@ -28578,6 +29448,60 @@
     "new": false
   },
   {
+    "name": "The Alley",
+    "lat": 53.436272,
+    "lon": -113.6040573,
+    "new": true
+  },
+  {
+    "name": "Miss Saigon",
+    "lat": 53.4362726,
+    "lon": -113.6042569,
+    "new": false
+  },
+  {
+    "name": "Barcelos Flame Grilled Chicken",
+    "lat": 53.436273,
+    "lon": -113.604374,
+    "new": false
+  },
+  {
+    "name": "Cell@Fix",
+    "lat": 53.4362737,
+    "lon": -113.6046018,
+    "new": true
+  },
+  {
+    "name": "Starbucks",
+    "lat": 53.4347956,
+    "lon": -113.6001276,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.438072,
+    "lon": -113.6051072,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4329058,
+    "lon": -113.5723366,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4328055,
+    "lon": -113.5725004,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4321334,
+    "lon": -113.5722944,
+    "new": false
+  },
+  {
     "name": "Joy Ho Chinese Food & Pizza",
     "lat": 53.5701425,
     "lon": -113.445828,
@@ -28788,6 +29712,12 @@
     "new": false
   },
   {
+    "name": "Halloween Alley",
+    "lat": 53.4491219,
+    "lon": -113.4850783,
+    "new": false
+  },
+  {
     "name": "Garage",
     "lat": 53.4508116,
     "lon": -113.4849534,
@@ -28806,112 +29736,82 @@
     "new": false
   },
   {
-    "name": "Dollarama",
-    "lat": 53.6207624,
-    "lon": -113.6136611,
-    "new": false
-  },
-  {
-    "name": "Dentus Family Dental St. Albert",
-    "lat": 53.6206199,
-    "lon": -113.613911,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.621828,
-    "lon": -113.6121239,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6284913,
-    "lon": -113.6291622,
-    "new": false
-  },
-  {
-    "name": "Panago",
-    "lat": 53.6465853,
-    "lon": -113.6233493,
-    "new": false
-  },
-  {
-    "name": "Supplement King",
-    "lat": 53.6466419,
-    "lon": -113.6232994,
-    "new": false
-  },
-  {
-    "name": "Klondyke Flowers",
-    "lat": 53.6466933,
-    "lon": -113.6232479,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6427677,
-    "lon": -113.6212308,
-    "new": false
-  },
-  {
-    "name": "HoneyBadger Bitcoin ATM",
-    "lat": 53.6426426,
-    "lon": -113.62346,
-    "new": false
-  },
-  {
-    "name": "Famous Wok",
-    "lat": 53.6429722,
-    "lon": -113.6213338,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6429119,
-    "lon": -113.6213339,
-    "new": false
-  },
-  {
-    "name": "Mobilinq",
-    "lat": 53.6427159,
-    "lon": -113.6218631,
-    "new": false
-  },
-  {
-    "name": "WirelessWave",
-    "lat": 53.6425779,
-    "lon": -113.6220015,
-    "new": false
-  },
-  {
-    "name": "Second Specs",
-    "lat": 53.642444,
-    "lon": -113.6221368,
-    "new": false
-  },
-  {
-    "name": "Rogers Plus",
-    "lat": 53.642989,
-    "lon": -113.6224333,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6423102,
-    "lon": -113.6223536,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6422012,
-    "lon": -113.6225712,
-    "new": false
-  },
-  {
     "name": "Eduplay Academy Daycare & Out of School Care",
     "lat": 53.5583289,
     "lon": -113.5914204,
     "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": -17.0212882,
+    "lon": 145.7282786,
+    "new": false
+  },
+  {
+    "name": "Cairns South Medicare Urgent Care Clinic",
+    "lat": -17.0209435,
+    "lon": 145.7281315,
+    "new": true
+  },
+  {
+    "name": "Mobil Edmonton Central",
+    "lat": -17.0217433,
+    "lon": 145.7269857,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": -17.0172342,
+    "lon": 145.7439283,
+    "new": false
+  },
+  {
+    "name": "BWS",
+    "lat": -17.0185493,
+    "lon": 145.7432308,
+    "new": true
+  },
+  {
+    "name": "Liquorland",
+    "lat": -17.018252,
+    "lon": 145.7440229,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": -17.0173251,
+    "lon": 145.7429364,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": -17.0172865,
+    "lon": 145.7429344,
+    "new": false
+  },
+  {
+    "name": "Zarraffa's Coffee",
+    "lat": -17.018624,
+    "lon": 145.7440436,
+    "new": true
+  },
+  {
+    "name": "Champion Thai",
+    "lat": -17.0186333,
+    "lon": 145.7439455,
+    "new": true
+  },
+  {
+    "name": "3 Black Bears Pizza Edmonton",
+    "lat": -17.0186411,
+    "lon": 145.7438625,
+    "new": true
+  },
+  {
+    "name": "UMAKA",
+    "lat": -17.0186462,
+    "lon": 145.7438088,
+    "new": true
   },
   {
     "name": "Sabai Thai Massage Therapy",
@@ -29016,6 +29916,18 @@
     "new": false
   },
   {
+    "name": "Edmonton Dermatology & Skin Surgery Centre",
+    "lat": 53.4399005,
+    "lon": -113.6199925,
+    "new": true
+  },
+  {
+    "name": "Edmonton Dermatology Laser and Aesthetics Centre Direct",
+    "lat": 53.4399037,
+    "lon": -113.6199066,
+    "new": true
+  },
+  {
     "name": "Bonjour Bakery",
     "lat": 53.5178843,
     "lon": -113.4866996,
@@ -29076,12 +29988,6 @@
     "new": false
   },
   {
-    "name": "Rivercrest Medical Clinic",
-    "lat": 53.638385,
-    "lon": -113.6236759,
-    "new": false
-  },
-  {
     "name": "Unknown",
     "lat": 53.5332596,
     "lon": -113.5012797,
@@ -29104,6 +30010,12 @@
     "lat": 53.4790867,
     "lon": -113.4847272,
     "new": false
+  },
+  {
+    "name": "OEB Breakfast Co",
+    "lat": 53.4333591,
+    "lon": -113.5746786,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -29304,6 +30216,60 @@
     "new": false
   },
   {
+    "name": "Fast Kitchen",
+    "lat": 53.4191656,
+    "lon": -113.4275239,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4459515,
+    "lon": -113.3727014,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4458708,
+    "lon": -113.3728809,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4457542,
+    "lon": -113.3726367,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4459423,
+    "lon": -113.3727754,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4459325,
+    "lon": -113.3723836,
+    "new": false
+  },
+  {
+    "name": "Mobile Mechanica",
+    "lat": 53.4188329,
+    "lon": -113.4272806,
+    "new": true
+  },
+  {
+    "name": "Auto Mobile Detailing",
+    "lat": 53.4189628,
+    "lon": -113.426684,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4184308,
+    "lon": -113.4276531,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.6262351,
     "lon": -113.4057949,
@@ -29322,10 +30288,16 @@
     "new": false
   },
   {
-    "name": "Green Grove Dental",
-    "lat": 53.627946,
-    "lon": -113.620406,
+    "name": "Remedy Cafe",
+    "lat": 53.4449866,
+    "lon": -113.577502,
     "new": false
+  },
+  {
+    "name": "Light Touch Permanent Makeup Studio, Spa & Academy",
+    "lat": 53.4171164,
+    "lon": -113.4793572,
+    "new": true
   },
   {
     "name": "Fuss Cupcakes",
@@ -29349,6 +30321,18 @@
     "name": "Unknown",
     "lat": 53.4861371,
     "lon": -113.5113241,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5244811,
+    "lon": -113.6685182,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.5241776,
+    "lon": -113.6689655,
     "new": false
   },
   {
@@ -29557,6 +30541,108 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4851736,
+    "lon": -113.6636649,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.48472,
+    "lon": -113.6628634,
+    "new": false
+  },
+  {
+    "name": "K's Kreations YEG Inc.",
+    "lat": 53.4839914,
+    "lon": -113.6638323,
+    "new": true
+  },
+  {
+    "name": "Liquor House",
+    "lat": 53.4884697,
+    "lon": -113.6654419,
+    "new": false
+  },
+  {
+    "name": "Pharmasave",
+    "lat": 53.4885783,
+    "lon": -113.6649173,
+    "new": false
+  },
+  {
+    "name": "A-ONE TAEKWONDO ACADEMY",
+    "lat": 53.4885427,
+    "lon": -113.6653464,
+    "new": true
+  },
+  {
+    "name": "Figaro Hair & Beauty Salon",
+    "lat": 53.4840517,
+    "lon": -113.6638357,
+    "new": true
+  },
+  {
+    "name": "Apple Academy Childcare & OSC",
+    "lat": 53.4843061,
+    "lon": -113.6638204,
+    "new": true
+  },
+  {
+    "name": "Elixir Medical Centres",
+    "lat": 53.4913279,
+    "lon": -113.6641811,
+    "new": true
+  },
+  {
+    "name": "Mathnasium",
+    "lat": 53.4916183,
+    "lon": -113.6643564,
+    "new": true
+  },
+  {
+    "name": "Copperwood Dental",
+    "lat": 53.4925576,
+    "lon": -113.6646694,
+    "new": true
+  },
+  {
+    "name": "Q-Nails",
+    "lat": 53.4926291,
+    "lon": -113.6646631,
+    "new": false
+  },
+  {
+    "name": "Trendy Tailors & Dry Cleaning",
+    "lat": 53.4926776,
+    "lon": -113.6646658,
+    "new": true
+  },
+  {
+    "name": "Hamptons Animal Hospital / Spay & Neuter Centre",
+    "lat": 53.49279,
+    "lon": -113.664692,
+    "new": true
+  },
+  {
+    "name": "PhoXpress Vietnamese Noodle House",
+    "lat": 53.4928692,
+    "lon": -113.664675,
+    "new": true
+  },
+  {
+    "name": "Energie Hair Studio",
+    "lat": 53.4929478,
+    "lon": -113.66466,
+    "new": true
+  },
+  {
+    "name": "Waves Coffee House",
+    "lat": 53.4930171,
+    "lon": -113.6646726,
+    "new": true
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5693826,
     "lon": -113.4977419,
     "new": false
@@ -29587,6 +30673,12 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4293902,
+    "lon": -113.4732189,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5750303,
     "lon": -113.5060465,
     "new": false
@@ -29602,6 +30694,18 @@
     "lat": 53.4992294,
     "lon": -113.4614944,
     "new": false
+  },
+  {
+    "name": "Devonshire Seniors Community",
+    "lat": 53.449312,
+    "lon": -113.5667424,
+    "new": true
+  },
+  {
+    "name": "Devonshire Manor",
+    "lat": 53.4483431,
+    "lon": -113.5659523,
+    "new": true
   },
   {
     "name": "Fuss Art of Hair",
@@ -29638,6 +30742,12 @@
     "lat": 53.504149,
     "lon": -113.4531761,
     "new": false
+  },
+  {
+    "name": "ATS Healthcare",
+    "lat": 53.5645937,
+    "lon": -113.6514815,
+    "new": true
   },
   {
     "name": "Porch Light Books",
@@ -29686,6 +30796,12 @@
     "lat": 53.4874297,
     "lon": -113.4996172,
     "new": false
+  },
+  {
+    "name": "Primetime Donair & Poutine",
+    "lat": 53.4350478,
+    "lon": -113.6161093,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -30504,6 +31620,30 @@
     "new": false
   },
   {
+    "name": "Costco Food Court",
+    "lat": 53.5096108,
+    "lon": -113.6857143,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4293526,
+    "lon": -113.6527892,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4275972,
+    "lon": -113.6462702,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4303878,
+    "lon": -113.6512897,
+    "new": false
+  },
+  {
     "name": "Unknown",
     "lat": 53.5173115,
     "lon": -113.4865584,
@@ -31002,6 +32142,12 @@
     "new": false
   },
   {
+    "name": "Noode Cheer",
+    "lat": 53.5057492,
+    "lon": -113.6879995,
+    "new": true
+  },
+  {
     "name": "Re:Plenish",
     "lat": 53.5134376,
     "lon": -113.4868673,
@@ -31422,6 +32568,36 @@
     "new": false
   },
   {
+    "name": "Saffron Indian Cuisine",
+    "lat": 53.4297187,
+    "lon": -113.4791771,
+    "new": true
+  },
+  {
+    "name": "OMG Nailspa",
+    "lat": 53.4298009,
+    "lon": -113.4791761,
+    "new": true
+  },
+  {
+    "name": "Gurkha Indian & Hakka Chinese Restaurant",
+    "lat": 53.4302846,
+    "lon": -113.4783551,
+    "new": true
+  },
+  {
+    "name": "Toro Sushi Bar & Grill",
+    "lat": 53.4300647,
+    "lon": -113.4787478,
+    "new": true
+  },
+  {
+    "name": "Wendy's",
+    "lat": 53.477336,
+    "lon": -113.6704667,
+    "new": false
+  },
+  {
     "name": "Brothers Clothing Shop",
     "lat": 53.4996164,
     "lon": -113.4633309,
@@ -31782,12 +32958,6 @@
     "new": false
   },
   {
-    "name": "St. Albert RCMP",
-    "lat": 53.6496471,
-    "lon": -113.6179541,
-    "new": false
-  },
-  {
     "name": "Capital Vape",
     "lat": 53.4699677,
     "lon": -113.4914635,
@@ -31893,6 +33063,30 @@
     "name": "Tim Hortons",
     "lat": 53.5184221,
     "lon": -113.4853818,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4117684,
+    "lon": -113.4293961,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4116221,
+    "lon": -113.4293999,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4114623,
+    "lon": -113.4293999,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4114373,
+    "lon": -113.4293475,
     "new": false
   },
   {
@@ -33090,6 +34284,12 @@
     "new": false
   },
   {
+    "name": "The Self Centre Massage and Wellness",
+    "lat": 53.4316254,
+    "lon": -113.4710821,
+    "new": true
+  },
+  {
     "name": "Aby Auto Repair",
     "lat": 53.5574218,
     "lon": -113.4935268,
@@ -33154,6 +34354,12 @@
     "lat": 53.5448567,
     "lon": -113.4987772,
     "new": false
+  },
+  {
+    "name": "St. Louis Bar & Grill",
+    "lat": 53.4110713,
+    "lon": -113.5687022,
+    "new": true
   },
   {
     "name": "Brookview Auto Service",
@@ -33657,7 +34863,7 @@
     "name": "Covenant Health CGP Day Program",
     "lat": 53.5605931,
     "lon": -113.5547299,
-    "new": true
+    "new": false
   },
   {
     "name": "Kingdom Way Church",
@@ -33864,9 +35070,39 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4467721,
+    "lon": -113.5752275,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4467721,
+    "lon": -113.575149,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4467689,
+    "lon": -113.575074,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4465241,
+    "lon": -113.5756896,
+    "new": false
+  },
+  {
     "name": "Calade Orchids",
     "lat": 53.4790642,
     "lon": -113.4865498,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.446109,
+    "lon": -113.5744737,
     "new": false
   },
   {
@@ -33984,39 +35220,81 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6330897,
-    "lon": -113.6275575,
+    "name": "Edmonton Specialists Clinic",
+    "lat": 53.4279005,
+    "lon": -113.4788781,
+    "new": true
+  },
+  {
+    "name": "Seabird Travel",
+    "lat": 53.4227277,
+    "lon": -113.4805256,
+    "new": true
+  },
+  {
+    "name": "Punjabi Chaap Corner",
+    "lat": 53.4229723,
+    "lon": -113.4791443,
+    "new": true
+  },
+  {
+    "name": "Parsons Park Medical Clinic & Pharmacy",
+    "lat": 53.4226928,
+    "lon": -113.4791554,
+    "new": true
+  },
+  {
+    "name": "Hughes Stop",
+    "lat": 53.4267428,
+    "lon": -113.4788117,
+    "new": true
+  },
+  {
+    "name": "Papa Murphy's",
+    "lat": 53.4228511,
+    "lon": -113.4791459,
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6331035,
-    "lon": -113.627562,
+    "name": "Lucere",
+    "lat": 53.4278753,
+    "lon": -113.4790967,
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6332858,
-    "lon": -113.6278103,
+    "name": "Parsons Drugs",
+    "lat": 53.4279388,
+    "lon": -113.4790955,
+    "new": true
+  },
+  {
+    "name": "Parkwood Group",
+    "lat": 53.4277247,
+    "lon": -113.4788524,
+    "new": true
+  },
+  {
+    "name": "Edmonton Neurology",
+    "lat": 53.4277941,
+    "lon": -113.4788575,
+    "new": true
+  },
+  {
+    "name": "Dr. Zaki Taher, Dermatologist",
+    "lat": 53.427571,
+    "lon": -113.4787101,
+    "new": true
+  },
+  {
+    "name": "Pet Valu",
+    "lat": 53.4262305,
+    "lon": -113.481329,
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6332827,
-    "lon": -113.6278335,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6331703,
-    "lon": -113.6278498,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6332775,
-    "lon": -113.627864,
+    "name": "Subway",
+    "lat": 53.4262234,
+    "lon": -113.481485,
     "new": false
   },
   {
@@ -34143,18 +35421,6 @@
     "name": "Ampersand27",
     "lat": 53.5183071,
     "lon": -113.504115,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6424434,
-    "lon": -113.6264815,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.642449,
-    "lon": -113.6264282,
     "new": false
   },
   {
@@ -35202,12 +36468,6 @@
     "new": false
   },
   {
-    "name": "St. Albert Massage Therapy",
-    "lat": 53.6487234,
-    "lon": -113.5737823,
-    "new": false
-  },
-  {
     "name": "Unknown",
     "lat": 53.5708771,
     "lon": -113.458802,
@@ -35245,6 +36505,12 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4499723,
+    "lon": -113.5711809,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.4502156,
     "lon": -113.5716754,
     "new": false
@@ -35277,6 +36543,12 @@
     "name": "Unknown",
     "lat": 53.4504018,
     "lon": -113.5682253,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4486245,
+    "lon": -113.5596127,
     "new": false
   },
   {
@@ -36162,6 +37434,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.4767875,
+    "lon": -113.668565,
+    "new": false
+  },
+  {
     "name": "Yo Gift Shop",
     "lat": 53.5702543,
     "lon": -113.4138976,
@@ -36262,6 +37540,12 @@
     "lat": 53.5702349,
     "lon": -113.4177199,
     "new": false
+  },
+  {
+    "name": "Mirch Masala Indian Cuisine",
+    "lat": 53.4403936,
+    "lon": -113.6186411,
+    "new": true
   },
   {
     "name": "Secord Medical Clinic",
@@ -36879,6 +38163,90 @@
     "name": "Unknown",
     "lat": 53.4562415,
     "lon": -113.3801407,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4487985,
+    "lon": -113.3778552,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4487702,
+    "lon": -113.3778536,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4479018,
+    "lon": -113.3778347,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4478445,
+    "lon": -113.3778845,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4478274,
+    "lon": -113.3776479,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4478241,
+    "lon": -113.3775601,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4478248,
+    "lon": -113.3773906,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4478301,
+    "lon": -113.3773004,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4488743,
+    "lon": -113.3791569,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4486739,
+    "lon": -113.3791806,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4486744,
+    "lon": -113.3791316,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4480962,
+    "lon": -113.3791586,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4479192,
+    "lon": -113.3791581,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4456992,
+    "lon": -113.3798163,
     "new": false
   },
   {
@@ -37807,6 +39175,18 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4193777,
+    "lon": -113.4801861,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4189636,
+    "lon": -113.4806811,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5607336,
     "lon": -113.5556986,
     "new": false
@@ -38233,6 +39613,12 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4237972,
+    "lon": -113.520263,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.5422083,
     "lon": -113.5262918,
     "new": false
@@ -38521,8 +39907,50 @@
   },
   {
     "name": "Unknown",
+    "lat": 53.4466707,
+    "lon": -113.577649,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4466871,
+    "lon": -113.5776471,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4450575,
+    "lon": -113.5776953,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4371548,
+    "lon": -113.5688073,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4373855,
+    "lon": -113.5675528,
+    "new": false
+  },
+  {
+    "name": "Unknown",
     "lat": 53.4543683,
     "lon": -113.5831061,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.44499,
+    "lon": -113.5776677,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4461756,
+    "lon": -113.5779932,
     "new": false
   },
   {
@@ -38677,48 +40105,6 @@
   },
   {
     "name": "Unknown",
-    "lat": 53.6435366,
-    "lon": -113.6277459,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6434873,
-    "lon": -113.6277293,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.643498,
-    "lon": -113.6276726,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6436957,
-    "lon": -113.6275619,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.644681,
-    "lon": -113.6284393,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6447015,
-    "lon": -113.6283023,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6447056,
-    "lon": -113.6282483,
-    "new": false
-  },
-  {
-    "name": "Unknown",
     "lat": 53.4579954,
     "lon": -113.4288862,
     "new": false
@@ -38829,12 +40215,6 @@
     "name": "Prestigio Bakery",
     "lat": 53.6149873,
     "lon": -113.48995,
-    "new": false
-  },
-  {
-    "name": "Nicole's Pharmacy",
-    "lat": 53.6201472,
-    "lon": -113.6097418,
     "new": false
   },
   {
@@ -39168,6 +40548,12 @@
     "new": false
   },
   {
+    "name": "Unknown",
+    "lat": 53.468203,
+    "lon": -113.6677083,
+    "new": false
+  },
+  {
     "name": "Greenhouse Health Food Eatery",
     "lat": 53.464574,
     "lon": -113.4868575,
@@ -39189,6 +40575,12 @@
     "name": "Chick-fil-A",
     "lat": 53.6143241,
     "lon": -113.3958242,
+    "new": false
+  },
+  {
+    "name": "Denny's",
+    "lat": 53.4238638,
+    "lon": -113.4905622,
     "new": false
   },
   {
@@ -39219,6 +40611,186 @@
     "name": "Unknown",
     "lat": 53.6006026,
     "lon": -113.4470741,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4238264,
+    "lon": -113.4798167,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4238146,
+    "lon": -113.4798158,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4242796,
+    "lon": -113.4800758,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4242217,
+    "lon": -113.4800484,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4251936,
+    "lon": -113.4806072,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4249337,
+    "lon": -113.4791818,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4249306,
+    "lon": -113.4792052,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4255028,
+    "lon": -113.4798013,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4254494,
+    "lon": -113.479809,
+    "new": false
+  },
+  {
+    "name": "Mind Makers Preschool",
+    "lat": 53.4239698,
+    "lon": -113.4775427,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4258375,
+    "lon": -113.4827202,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4243654,
+    "lon": -113.4819025,
+    "new": false
+  },
+  {
+    "name": "Lifestyle Storage",
+    "lat": 53.4281682,
+    "lon": -113.4814609,
+    "new": true
+  },
+  {
+    "name": "Sky Dental",
+    "lat": 53.4262822,
+    "lon": -113.4818575,
+    "new": true
+  },
+  {
+    "name": "Telus",
+    "lat": 53.4243658,
+    "lon": -113.4814075,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4243697,
+    "lon": -113.4815436,
+    "new": false
+  },
+  {
+    "name": "Fresh Dental",
+    "lat": 53.4243633,
+    "lon": -113.4817314,
+    "new": true
+  },
+  {
+    "name": "Parsons Daycare",
+    "lat": 53.4243683,
+    "lon": -113.4820113,
+    "new": true
+  },
+  {
+    "name": "Love Pho Vietnamese Restaurant",
+    "lat": 53.4273452,
+    "lon": -113.4830369,
+    "new": true
+  },
+  {
+    "name": "First Class Barber",
+    "lat": 53.4274146,
+    "lon": -113.4829852,
+    "new": true
+  },
+  {
+    "name": "Dollarama",
+    "lat": 53.4269959,
+    "lon": -113.4831304,
+    "new": false
+  },
+  {
+    "name": "Nofrills",
+    "lat": 53.4267821,
+    "lon": -113.4832415,
+    "new": true
+  },
+  {
+    "name": "ICICI Bank",
+    "lat": 53.4262734,
+    "lon": -113.4837255,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4262222,
+    "lon": -113.4837536,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4261409,
+    "lon": -113.483807,
+    "new": false
+  },
+  {
+    "name": "Ice Flame",
+    "lat": 53.4260923,
+    "lon": -113.4838408,
+    "new": true
+  },
+  {
+    "name": "Maverick's Donut Company",
+    "lat": 53.4260051,
+    "lon": -113.483876,
+    "new": true
+  },
+  {
+    "name": "Turquaz Kebab House",
+    "lat": 53.4258651,
+    "lon": -113.4840167,
+    "new": false
+  },
+  {
+    "name": "Firehouse Subs",
+    "lat": 53.4259335,
+    "lon": -113.4825687,
+    "new": false
+  },
+  {
+    "name": "Taco Time",
+    "lat": 53.425952,
+    "lon": -113.4839201,
     "new": false
   },
   {
@@ -39396,40 +40968,10 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6200082,
-    "lon": -113.6155743,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6200888,
-    "lon": -113.6153246,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6201704,
-    "lon": -113.6150718,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6204918,
-    "lon": -113.6160189,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6205798,
-    "lon": -113.6157462,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6206607,
-    "lon": -113.6154956,
-    "new": false
+    "name": "Sleep Therapeutics Ellwood",
+    "lat": 53.4316211,
+    "lon": -113.4692072,
+    "new": true
   },
   {
     "name": "Good Stock Whole Food Ingredients",
@@ -39516,52 +41058,10 @@
     "new": false
   },
   {
-    "name": "Unknown",
-    "lat": 53.6255076,
-    "lon": -113.6217996,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6426589,
-    "lon": -113.6234453,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6427481,
-    "lon": -113.6232022,
-    "new": false
-  },
-  {
-    "name": "Hickory Farms",
-    "lat": 53.6422757,
-    "lon": -113.6229259,
-    "new": false
-  },
-  {
-    "name": "Cotton Candy",
-    "lat": 53.6428057,
-    "lon": -113.6217769,
-    "new": false
-  },
-  {
-    "name": "Calendar Club",
-    "lat": 53.6423248,
-    "lon": -113.622115,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6437389,
-    "lon": -113.6220282,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.6411679,
-    "lon": -113.6233532,
-    "new": false
+    "name": "Cerise Floral Studio",
+    "lat": 53.4306918,
+    "lon": -113.4780435,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -39570,22 +41070,10 @@
     "new": false
   },
   {
-    "name": "Wild Earth Bakery",
-    "lat": 53.6117546,
-    "lon": -113.6484138,
-    "new": false
-  },
-  {
-    "name": "Trailer Dump Site",
-    "lat": 53.6259792,
-    "lon": -113.6386479,
-    "new": false
-  },
-  {
-    "name": "Nitza\u2019s Pizza",
-    "lat": 53.6403344,
-    "lon": -113.6376362,
-    "new": false
+    "name": "Soprano Pizza",
+    "lat": 53.5891695,
+    "lon": -113.679066,
+    "new": true
   },
   {
     "name": "Elsafadi\u2019s Super Market",
@@ -39678,6 +41166,18 @@
     "new": false
   },
   {
+    "name": "Red Swan Pizza",
+    "lat": 53.5733141,
+    "lon": -113.6904423,
+    "new": false
+  },
+  {
+    "name": "DQ Grill & Chill",
+    "lat": 53.5738305,
+    "lon": -113.6899421,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.6022774,
     "lon": -113.4120308,
@@ -39688,6 +41188,24 @@
     "lat": 53.6025073,
     "lon": -113.4122602,
     "new": false
+  },
+  {
+    "name": "Boss Liquor",
+    "lat": 53.5890592,
+    "lon": -113.6787995,
+    "new": false
+  },
+  {
+    "name": "Trumpeter Salon & Spa",
+    "lat": 53.589114,
+    "lon": -113.6789187,
+    "new": true
+  },
+  {
+    "name": "Winterburn Liquor Store",
+    "lat": 53.5664681,
+    "lon": -113.6898098,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -39930,9 +41448,63 @@
     "new": false
   },
   {
+    "name": "Liquorland",
+    "lat": -17.0192412,
+    "lon": 145.7277987,
+    "new": true
+  },
+  {
+    "name": "Sugarworld Cafe",
+    "lat": -17.0194778,
+    "lon": 145.7278416,
+    "new": true
+  },
+  {
+    "name": "Domino's",
+    "lat": -17.0191275,
+    "lon": 145.7278474,
+    "new": false
+  },
+  {
+    "name": "TerryWhite Chemmart",
+    "lat": -17.0196204,
+    "lon": 145.7279186,
+    "new": true
+  },
+  {
     "name": "Unknown",
     "lat": 53.4524003,
     "lon": -113.4885904,
+    "new": false
+  },
+  {
+    "name": "Sephora",
+    "lat": 53.4472473,
+    "lon": -113.4831947,
+    "new": false
+  },
+  {
+    "name": "Winners",
+    "lat": 53.4452088,
+    "lon": -113.4867163,
+    "new": false
+  },
+  {
+    "name": "Uniqlo",
+    "lat": 53.4474952,
+    "lon": -113.4831878,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4477968,
+    "lon": -113.4830515,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4477983,
+    "lon": -113.4830176,
     "new": false
   },
   {
@@ -39951,6 +41523,54 @@
     "name": "Unknown",
     "lat": 53.4523675,
     "lon": -113.4887169,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.449182,
+    "lon": -113.4893037,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4490792,
+    "lon": -113.4892334,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.448521,
+    "lon": -113.488877,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4484821,
+    "lon": -113.4888593,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4480292,
+    "lon": -113.4884996,
+    "new": false
+  },
+  {
+    "name": "Thriftys",
+    "lat": 53.4455322,
+    "lon": -113.4868802,
+    "new": true
+  },
+  {
+    "name": "Dollarama",
+    "lat": 53.4427266,
+    "lon": -113.4853326,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4446668,
+    "lon": -113.486415,
     "new": false
   },
   {
@@ -39988,6 +41608,30 @@
     "lat": 53.466932,
     "lon": -113.4761422,
     "new": false
+  },
+  {
+    "name": "IKEA",
+    "lat": 53.4416348,
+    "lon": -113.4897168,
+    "new": true
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4396514,
+    "lon": -113.4821429,
+    "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4396614,
+    "lon": -113.4815273,
+    "new": false
+  },
+  {
+    "name": "Spirit Halloween",
+    "lat": 53.4471009,
+    "lon": -113.491461,
+    "new": true
   },
   {
     "name": "Unknown",
@@ -40029,12 +41673,6 @@
     "name": "Costco Gasoline",
     "lat": 53.5444804,
     "lon": -113.6474519,
-    "new": false
-  },
-  {
-    "name": "Riverside MotoSports",
-    "lat": 53.6488145,
-    "lon": -113.6267294,
     "new": false
   },
   {
@@ -40185,12 +41823,6 @@
     "name": "Unknown",
     "lat": 53.541869,
     "lon": -113.5012599,
-    "new": false
-  },
-  {
-    "name": "Riverside Honda",
-    "lat": 53.6489384,
-    "lon": -113.6269216,
     "new": false
   },
   {
@@ -40650,6 +42282,12 @@
     "new": false
   },
   {
+    "name": "Real Deal Meats LTD",
+    "lat": 53.4304342,
+    "lon": -113.4718307,
+    "new": true
+  },
+  {
     "name": "Supreme Barber Shop",
     "lat": 53.5155401,
     "lon": -113.4980299,
@@ -40767,24 +42405,6 @@
     "name": "Rest Easy Alberta Sleep & Pulmonary Clinic",
     "lat": 53.4889763,
     "lon": -113.5146782,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.5209877,
-    "lon": -113.5910434,
-    "new": false
-  },
-  {
-    "name": "Unknown",
-    "lat": 53.5205212,
-    "lon": -113.5955354,
-    "new": false
-  },
-  {
-    "name": "Starbucks",
-    "lat": 53.5208776,
-    "lon": -113.5920369,
     "new": false
   },
   {
@@ -40927,9 +42547,45 @@
   },
   {
     "name": "Edmonton Supercharger",
+    "lat": 53.436318,
+    "lon": -113.61038,
+    "new": false
+  },
+  {
+    "name": "Edmonton Supercharger",
     "lat": 53.598293,
     "lon": -113.404188,
     "new": false
+  },
+  {
+    "name": "Unknown",
+    "lat": 53.4216546,
+    "lon": -113.5230235,
+    "new": false
+  },
+  {
+    "name": "Puffizza",
+    "lat": 53.423304,
+    "lon": -113.4785158,
+    "new": true
+  },
+  {
+    "name": "Baba\u2019s Indian Cuisine And Bar",
+    "lat": 53.4232997,
+    "lon": -113.4786576,
+    "new": true
+  },
+  {
+    "name": "Liquor Barrel",
+    "lat": 53.4233032,
+    "lon": -113.4787838,
+    "new": true
+  },
+  {
+    "name": "Chaiiwala of London",
+    "lat": 53.4232973,
+    "lon": -113.4790838,
+    "new": true
   },
   {
     "name": "Unknown",
