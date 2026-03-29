@@ -4,6 +4,7 @@ from datetime import datetime
 
 today = datetime.now().strftime("%Y-%m-%d")
 
+# Make sure new data exists
 if not os.path.exists("businesses.json"):
     print("No new data found. Skipping comparison.")
     exit()
@@ -12,38 +13,55 @@ if not os.path.exists("businesses.json"):
 with open("businesses.json") as f:
     new_data = json.load(f)
 
-# Load old data
+# Load old data if it exists
 if os.path.exists("old_businesses.json"):
     with open("old_businesses.json") as f:
         old_data = json.load(f)
 else:
     print("No old data found. Creating baseline...")
+
     for b in new_data:
         b["date_added"] = today
 
+    # Save baseline
     with open("old_businesses.json", "w") as f:
         json.dump(new_data, f)
 
+    # Save metadata (for frontend display)
+    with open("metadata.json", "w") as f:
+        json.dump({"last_updated": today}, f)
+
     exit()
 
-# Create lookup from old data
-old_lookup = {b["id"]: b for b in old_data if "id" in b}
+# Create lookup from old data using ID
+old_lookup = {}
+for b in old_data:
+    if "id" in b:
+        old_lookup[b["id"]] = b
 
 new_count = 0
 
+# Compare new vs old
 for b in new_data:
     business_id = b.get("id")
 
+    if not business_id:
+        continue
+
     if business_id in old_lookup:
-        # Keep original date
+        # Keep original date_added
         b["date_added"] = old_lookup[business_id].get("date_added", today)
     else:
-        # New business
+        # Brand new business
         b["date_added"] = today
         new_count += 1
 
 print(f"New businesses found: {new_count}")
 
-# Save updated data
+# Save updated dataset
 with open("old_businesses.json", "w") as f:
     json.dump(new_data, f)
+
+# Save metadata (used by your website)
+with open("metadata.json", "w") as f:
+    json.dump({"last_updated": today}, f)
