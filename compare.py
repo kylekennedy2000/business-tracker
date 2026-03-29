@@ -1,5 +1,8 @@
 import json
 import os
+from datetime import datetime
+
+today = datetime.now().strftime("%Y-%m-%d")
 
 if not os.path.exists("businesses.json"):
     print("No new data found. Skipping comparison.")
@@ -9,29 +12,38 @@ if not os.path.exists("businesses.json"):
 with open("businesses.json") as f:
     new_data = json.load(f)
 
-# Load old data (if exists)
+# Load old data
 if os.path.exists("old_businesses.json"):
     with open("old_businesses.json") as f:
         old_data = json.load(f)
 else:
     print("No old data found. Creating baseline...")
-    os.rename("businesses.json", "old_businesses.json")
+    for b in new_data:
+        b["date_added"] = today
+
+    with open("old_businesses.json", "w") as f:
+        json.dump(new_data, f)
+
     exit()
 
-# Create sets of IDs
-old_ids = set(b["id"] for b in old_data if "id" in b)
+# Create lookup from old data
+old_lookup = {b["id"]: b for b in old_data if "id" in b}
 
-new_businesses = []
+new_count = 0
 
 for b in new_data:
-    if b.get("id") not in old_ids:
-        b["new"] = True
-        new_businesses.append(b)
+    business_id = b.get("id")
+
+    if business_id in old_lookup:
+        # Keep original date
+        b["date_added"] = old_lookup[business_id].get("date_added", today)
     else:
-        b["new"] = False
+        # New business
+        b["date_added"] = today
+        new_count += 1
 
-print(f"New businesses found: {len(new_businesses)}")
+print(f"New businesses found: {new_count}")
 
-# Save updated dataset
+# Save updated data
 with open("old_businesses.json", "w") as f:
     json.dump(new_data, f)
