@@ -73,7 +73,7 @@ function renderMarkers() {
     const addedDate = new Date(b.date_added);
     const diffDays = (today - addedDate) / (1000 * 60 * 60 * 24);
 
-    const isNew = diffDays <= 30; // change to 90 for 3 months
+    const isNew = diffDays <= 1; // change to 90 for 3 months
 
     if (showOnlyNew && !isNew) return;
 
