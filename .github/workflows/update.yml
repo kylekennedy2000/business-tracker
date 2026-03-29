@@ -2,8 +2,9 @@ name: Update Business Data
 
 on:
   schedule:
-    - cron: '0 12 1 * *'  # Runs monthly (1st of month)
-  workflow_dispatch:      # Allows manual run
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:
+
 
 jobs:
   update-data:
