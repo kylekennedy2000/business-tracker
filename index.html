@@ -11,7 +11,7 @@
 
 <div style="position:absolute; z-index:1000; top:10px; left:10px; background:white; padding:10px; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
 
-  <button onclick="toggleNew()">Show Only New</button>
+  <button onclick="toggleNew()" id="toggleBtn">Show Only New</button>
   <button onclick="refreshData()">Refresh View</button>
 
   <div style="margin-top:8px; font-size:12px;">
@@ -19,7 +19,6 @@
   </div>
 
 </div>
-
 
 <div id="map" style="height: 100vh;"></div>
 
@@ -41,10 +40,10 @@ function toggleNew() {
   renderMarkers();
 }
 
-
 function refreshData() {
   location.reload();
 }
+
 let businessData = [];
 
 fetch('old_businesses.json')
@@ -59,20 +58,27 @@ fetch('old_businesses.json')
     renderMarkers();
   });
 
-
 function renderMarkers() {
 
   // Clear existing markers
   allMarkers.forEach(m => map.removeLayer(m));
   allMarkers = [];
 
+  const today = new Date();
+
   businessData.forEach(b => {
     if (!b.lat || !b.lon) return;
 
-    if (showOnlyNew && !b.new) return;
+    // Calculate how many days old the business is
+    const addedDate = new Date(b.date_added);
+    const diffDays = (today - addedDate) / (1000 * 60 * 60 * 24);
 
-    var color = b.new ? "red" : "blue";
-    var radius = b.new ? 10 : 3;
+    const isNew = diffDays <= 30; // change to 90 for 3 months
+
+    if (showOnlyNew && !isNew) return;
+
+    var color = isNew ? "red" : "blue";
+    var radius = isNew ? 10 : 3;
 
     var marker = L.circleMarker([b.lat, b.lon], {
       radius: radius,
@@ -80,7 +86,9 @@ function renderMarkers() {
     }).addTo(map);
 
     marker.bindPopup(
-      "<b>" + b.name + "</b><br>" + (b.new ? "NEW BUSINESS" : "Existing")
+      "<b>" + b.name + "</b><br>" +
+      "Added: " + b.date_added + "<br>" +
+      (isNew ? "NEW" : "Existing")
     );
 
     allMarkers.push(marker);
@@ -88,7 +96,6 @@ function renderMarkers() {
 }
 
 </script>
-
 
 </body>
 </html>
