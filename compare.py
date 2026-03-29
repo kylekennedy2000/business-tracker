@@ -18,10 +18,16 @@ if os.path.exists("old_businesses.json"):
     with open("old_businesses.json") as f:
         old_data = json.load(f)
 else:
-    print("No old data found. Creating baseline...")
+   from datetime import timedelta
 
-    for b in new_data:
-        b["date_added"] = today
+print("No old data found. Creating baseline...")
+
+# Set baseline to 60 days ago so everything starts as "old"
+past_date = (datetime.now() - timedelta(days=60)).strftime("%Y-%m-%d")
+
+for b in new_data:
+    b["date_added"] = past_date
+
 
     # Save baseline
     with open("old_businesses.json", "w") as f:
