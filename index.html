@@ -14,9 +14,22 @@
   <button onclick="toggleNew()" id="toggleBtn">Show Only New</button>
   <button onclick="refreshData()">Refresh View</button>
 
-  <div style="margin-top:8px; font-size:12px;">
+  <div style="margin-top:8px;">
+    <button onclick="setDays(7)">7 Days</button>
+    <button onclick="setDays(30)">30 Days</button>
+    <button onclick="setDays(90)">90 Days</button>
+  </div>
+
+  <div style="margin-top:6px; font-size:12px;" id="filterLabel">
+    Showing last 30 days
+  </div>
+
+  <div style="margin-top:6px; font-size:12px;">
     Last Updated: <span id="lastUpdated">Loading...</span>
   </div>
+
+</div>
+
 
 </div>
 
@@ -29,6 +42,7 @@ var map = L.map('map').setView([53.5461, -113.4938], 11);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map);
 
 var showOnlyNew = false;
+var daysFilter = 30; // default
 var allMarkers = [];
 
 function toggleNew() {
@@ -37,6 +51,12 @@ function toggleNew() {
   document.getElementById("toggleBtn").innerText =
     showOnlyNew ? "Show All Businesses" : "Show Only New";
 
+  renderMarkers();
+}
+
+function setDays(days) {
+  daysFilter = days;
+  document.getElementById("filterLabel").innerText = "Showing last " + days + " days";
   renderMarkers();
 }
 
@@ -51,7 +71,6 @@ fetch('old_businesses.json')
   .then(data => {
     businessData = data;
 
-    // Set last updated time
     const now = new Date();
     document.getElementById("lastUpdated").innerText = now.toLocaleString();
 
@@ -60,7 +79,6 @@ fetch('old_businesses.json')
 
 function renderMarkers() {
 
-  // Clear existing markers
   allMarkers.forEach(m => map.removeLayer(m));
   allMarkers = [];
 
@@ -69,11 +87,10 @@ function renderMarkers() {
   businessData.forEach(b => {
     if (!b.lat || !b.lon) return;
 
-    // Calculate how many days old the business is
     const addedDate = new Date(b.date_added);
     const diffDays = (today - addedDate) / (1000 * 60 * 60 * 24);
 
-    const isNew = diffDays <= 1; // change to 90 for 3 months
+    const isNew = diffDays <= daysFilter;
 
     if (showOnlyNew && !isNew) return;
 
@@ -97,5 +114,7 @@ function renderMarkers() {
 
 </script>
 
+
 </body>
 </html>
+
