@@ -47,7 +47,7 @@ var map = L.map('map').setView([53.5461, -113.4938], 11);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map);
 
-var showOnlyNew = false;
+var showOnlyNew = true;
 var daysFilter = 30;
 var allMarkers = [];
 
@@ -79,6 +79,9 @@ fetch('old_businesses.json')
 
     const now = new Date();
     document.getElementById("lastUpdated").innerText = now.toLocaleString();
+
+    // Set correct button label on load
+    document.getElementById("toggleBtn").innerText = "Show All Businesses";
 
     renderMarkers();
   });
