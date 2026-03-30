@@ -11,14 +11,13 @@
 
 <div style="position:absolute; z-index:1000; top:10px; right:10px; background:white; padding:10px; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
 
-
   <button onclick="toggleNew()" id="toggleBtn">Show Only New</button>
-  <button onclick="refreshData()">Refresh View</button>
-  
-<div style="margin-top:8px; font-size:12px;">
-  🔵 Existing<br>
-  🔴 New (within selected range)
-</div>
+  <button onclick="refreshData()">Reload Map</button>
+
+  <div style="margin-top:8px; font-size:12px;">
+    🔵 Existing<br>
+    🔴 New (within selected range)
+  </div>
 
   <div style="margin-top:8px;">
     <button onclick="setDays(7)">7 Days</button>
@@ -32,14 +31,11 @@
 
   <div style="margin-top:6px; font-size:12px;">
     Last Updated: <span id="lastUpdated">Loading...</span>
-    
-    <div>
-  New Businesses: <span id="newCount">0</span>
-</div>
   </div>
 
-</div>
-
+  <div style="font-size:12px;">
+    New Businesses: <span id="newCount">0</span>
+  </div>
 
 </div>
 
@@ -52,7 +48,7 @@ var map = L.map('map').setView([53.5461, -113.4938], 11);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map);
 
 var showOnlyNew = false;
-var daysFilter = 30; // default
+var daysFilter = 30;
 var allMarkers = [];
 
 function toggleNew() {
@@ -89,10 +85,13 @@ fetch('old_businesses.json')
 
 function renderMarkers() {
 
+  // Clear markers
   allMarkers.forEach(m => map.removeLayer(m));
   allMarkers = [];
 
   const today = new Date();
+  let newCount = 0;
+  let newMarkers = [];
 
   businessData.forEach(b => {
     if (!b.lat || !b.lon) return;
@@ -103,6 +102,8 @@ function renderMarkers() {
     const isNew = diffDays <= daysFilter;
 
     if (showOnlyNew && !isNew) return;
+
+    if (isNew) newCount++;
 
     var color = isNew ? "red" : "blue";
     var radius = isNew ? 10 : 3;
@@ -119,11 +120,22 @@ function renderMarkers() {
     );
 
     allMarkers.push(marker);
+
+    if (isNew) newMarkers.push(marker);
   });
+
+  // Update counter
+  document.getElementById("newCount").innerText = newCount;
+
+  // Auto zoom to new businesses
+  if (newMarkers.length > 0) {
+    var group = new L.featureGroup(newMarkers);
+    map.fitBounds(group.getBounds());
+  }
 }
 
 </script>
 
-
 </body>
 </html>
+
